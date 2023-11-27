@@ -1,1308 +1,1308 @@
-﻿surname;firstname;distance;technique;track length;time
-MCEVOY;Cameron;50;Freistil;50;21.06
-MCEVOY;Cameron;50;Freistil;25;20.75
-MCEVOY;Cameron;100;Freistil;50;47.04
-MCEVOY;Cameron;100;Freistil;25;46.19
-MCEVOY;Cameron;200;Freistil;50;1:45.46
-MCEVOY;Cameron;200;Freistil;25;1:40.80
-MCEVOY;Cameron;400;Freistil;50;3:53.74
-MCEVOY;Cameron;400;Freistil;25;3:41.24
-MCEVOY;Cameron;50;Rücken;25;24.05
-MCEVOY;Cameron;100;Rücken;50;54.92
-MCEVOY;Cameron;100;Rücken;25;52.12
-MCEVOY;Cameron;200;Rücken;50;2:05.07
-MCEVOY;Cameron;200;Rücken;25;2:00.36
-MCEVOY;Cameron;50;Schmetterling;50;23.07
-MCEVOY;Cameron;50;Schmetterling;25;23.66
-MCEVOY;Cameron;100;Schmetterling;50;53.84
-MCEVOY;Cameron;100;Schmetterling;25;1:00.49
-MCEVOY;Cameron;200;Schmetterling;50;2:37.02
-MCEVOY;Cameron;50;Freistil;50;21.75
-MCEVOY;Cameron;50;Freistil;25;20.74
-MCEVOY;Cameron;100;Freistil;50;46.6
-MCEVOY;Cameron;100;Freistil;25;45.78
-MCEVOY;Cameron;200;Freistil;50;1:47.89
-MCEVOY;Cameron;200;Freistil;25;1:43.74
-MCEVOY;Cameron;50;Schmetterling;25;24.63
-MCEVOY;Cameron;100;Schmetterling;25;53.02
-LEDECKY;Kathleen;50;Freistil;50;25.45
-LEDECKY;Kathleen;100;Freistil;50;53.75
-LEDECKY;Kathleen;200;Freistil;50;1:53.73
-LEDECKY;Kathleen;200;Freistil;25;1:52.10
-LEDECKY;Kathleen;400;Freistil;50;3:56.46
-LEDECKY;Kathleen;400;Freistil;25;3:52.88
-LEDECKY;Kathleen;800;Freistil;50;8:04.79
-LEDECKY;Kathleen;800;Freistil;25;7:57.42
-LEDECKY;Kathleen;1500;Freistil;50;15:20.48
-LEDECKY;Kathleen;1500;Freistil;25;15:08.24
-LEDECKY;Kathleen;100;Rücken;50;1:04.58
-LEDECKY;Kathleen;100;Schmetterling;50;1:02.01
-LEDECKY;Kathleen;200;Schmetterling;50;2:13.77
-LEDECKY;Kathleen;200;Schmetterling;25;2:13.08
-LEDECKY;Kathleen;200;Lagen;50;2:14.36
-LEDECKY;Kathleen;400;Lagen;50;4:35.77
-LEDECKY;Kathleen;400;Lagen;25;4:27.18
-LEDECKY;Kathleen;100;Freistil;50;52.64
-LEDECKY;Kathleen;100;Freistil;25;54
-LEDECKY;Kathleen;200;Freistil;50;1:53.67
-MCKEOWN;Kaylee;50;Freistil;50;26.37
-MCKEOWN;Kaylee;50;Freistil;25;27.95
-MCKEOWN;Kaylee;100;Freistil;50;54.33
-MCKEOWN;Kaylee;100;Freistil;25;1:00.05
-MCKEOWN;Kaylee;200;Freistil;50;1:56.88
-MCKEOWN;Kaylee;200;Freistil;25;1:55.84
-MCKEOWN;Kaylee;400;Freistil;50;4:15.37
-MCKEOWN;Kaylee;50;Rücken;50;26.86
-MCKEOWN;Kaylee;50;Rücken;25;26
-MCKEOWN;Kaylee;100;Rücken;50;57.33
-MCKEOWN;Kaylee;100;Rücken;25;55.49
-MCKEOWN;Kaylee;200;Rücken;50;2:03.14
-MCKEOWN;Kaylee;200;Rücken;25;1:58.94
-MCKEOWN;Kaylee;50;Brust;25;36.29
-MCKEOWN;Kaylee;100;Brust;50;1:06.86
-MCKEOWN;Kaylee;100;Brust;25;1:08.06
-MCKEOWN;Kaylee;200;Brust;50;2:24.18
-MCKEOWN;Kaylee;50;Schmetterling;50;28.44
-MCKEOWN;Kaylee;50;Schmetterling;25;30.22
-MCKEOWN;Kaylee;100;Schmetterling;50;1:01.63
-MCKEOWN;Kaylee;100;Lagen;25;59.14
-MCKEOWN;Kaylee;200;Lagen;50;2:07.60
-MCKEOWN;Kaylee;200;Lagen;25;2:03.57
-MCKEOWN;Kaylee;400;Lagen;50;4:31.74
-ZHAO;Jing;50;Freistil;50;25.9
-ZHAO;Jing;200;Freistil;25;2:02.86
-ZHAO;Jing;50;Rücken;50;27.06
-ZHAO;Jing;50;Rücken;25;25.82
-ZHAO;Jing;100;Rücken;50;58.98
-ZHAO;Jing;100;Rücken;25;56.18
-ZHAO;Jing;200;Rücken;50;2:07.87
-ZHAO;Jing;200;Rücken;25;2:07.71
-ZHAO;Jing;100;Lagen;25;58.4
-ZHAO;Jing;200;Lagen;50;2:16.00
-ZHAO;Jing;200;Lagen;25;2:17.82
-ZHAO;Jing;400;Lagen;50;4:56.41
-ZHAO;Jing;100;Brust;25;1:04.72
-ARMSTRONG;Hunter;50;Freistil;50;22
-ARMSTRONG;Hunter;50;Freistil;25;21.45
-ARMSTRONG;Hunter;100;Freistil;50;48.25
-ARMSTRONG;Hunter;100;Freistil;25;47.11
-ARMSTRONG;Hunter;200;Freistil;50;1:53.26
-ARMSTRONG;Hunter;50;Rücken;50;23.71
-ARMSTRONG;Hunter;50;Rücken;25;23.05
-ARMSTRONG;Hunter;100;Rücken;50;51.98
-ARMSTRONG;Hunter;100;Rücken;25;50.68
-ARMSTRONG;Hunter;200;Rücken;50;2:03.60
-ARMSTRONG;Hunter;50;Schmetterling;50;24.43
-ARMSTRONG;Hunter;50;Freistil;25;20.94
-ARMSTRONG;Hunter;100;Freistil;50;49.32
-CECCON;Thomas;50;Freistil;50;22.33
-CECCON;Thomas;50;Freistil;25;21.42
-CECCON;Thomas;100;Freistil;50;47.71
-CECCON;Thomas;100;Freistil;25;45.72
-CECCON;Thomas;200;Freistil;50;1:46.52
-CECCON;Thomas;200;Freistil;25;1:43.45
-CECCON;Thomas;400;Freistil;50;4:04.55
-CECCON;Thomas;400;Freistil;25;3:53.52
-CECCON;Thomas;800;Freistil;50;8:58.76
-CECCON;Thomas;800;Freistil;25;8:25.51
-CECCON;Thomas;1500;Freistil;50;17:08.04
-CECCON;Thomas;1500;Freistil;25;15:49.26
-CECCON;Thomas;50;Rücken;50;24.4
-CECCON;Thomas;50;Rücken;25;23.22
-CECCON;Thomas;100;Rücken;50;51.6
-CECCON;Thomas;100;Rücken;25;49.59
-CECCON;Thomas;200;Rücken;50;1:56.49
-CECCON;Thomas;200;Rücken;25;1:53.24
-CECCON;Thomas;50;Brust;50;28.13
-CECCON;Thomas;50;Brust;25;27.16
-CECCON;Thomas;100;Brust;50;1:02.51
-CECCON;Thomas;100;Brust;25;59.13
-CECCON;Thomas;200;Brust;50;2:20.88
-CECCON;Thomas;200;Brust;25;2:12.69
-CECCON;Thomas;50;Schmetterling;50;22.68
-CECCON;Thomas;50;Schmetterling;25;22.19
-CECCON;Thomas;100;Schmetterling;50;51.38
-CECCON;Thomas;100;Schmetterling;25;50.56
-CECCON;Thomas;200;Schmetterling;50;1:59.53
-CECCON;Thomas;200;Schmetterling;25;1:55.26
-CECCON;Thomas;100;Lagen;25;50.97
-CECCON;Thomas;200;Lagen;50;1:59.89
-CECCON;Thomas;200;Lagen;25;1:51.90
-CECCON;Thomas;400;Lagen;50;4:29.63
-CECCON;Thomas;400;Lagen;25;4:14.90
-CECCON;Thomas;50;Freistil;25;20.67
-CECCON;Thomas;100;Freistil;50;47.03
-CECCON;Thomas;100;Freistil;25;45.13
-CECCON;Thomas;200;Freistil;50;1:48.97
-CECCON;Thomas;200;Freistil;25;1:42.61
-CECCON;Thomas;50;Brust;25;26.87
-CECCON;Thomas;100;Brust;50;1:03.42
-CECCON;Thomas;50;Schmetterling;25;21.8
-CECCON;Thomas;100;Schmetterling;50;52.22
-CECCON;Thomas;100;Schmetterling;25;54.54
-CHALMERS;Kyle;50;Freistil;50;22.07
-CHALMERS;Kyle;50;Freistil;25;20.68
-CHALMERS;Kyle;100;Freistil;50;47.08
-CHALMERS;Kyle;100;Freistil;50;47.08
-CHALMERS;Kyle;100;Freistil;25;44.84
-CHALMERS;Kyle;200;Freistil;50;1:45.48
-CHALMERS;Kyle;200;Freistil;25;1:40.82
-CHALMERS;Kyle;400;Freistil;50;4:01.71
-CHALMERS;Kyle;800;Freistil;50;8:23.03
-CHALMERS;Kyle;50;Rücken;50;27.55
-CHALMERS;Kyle;50;Rücken;25;25.25
-CHALMERS;Kyle;100;Rücken;50;58.19
-CHALMERS;Kyle;50;Schmetterling;50;23.21
-CHALMERS;Kyle;50;Schmetterling;25;22.24
-CHALMERS;Kyle;100;Schmetterling;50;51.61
-CHALMERS;Kyle;100;Schmetterling;25;52.49
-CHALMERS;Kyle;200;Schmetterling;50;2:04.74
-CHALMERS;Kyle;200;Lagen;50;2:13.90
-CHALMERS;Kyle;50;Freistil;50;21.96
-CHALMERS;Kyle;50;Freistil;25;20.34
-CHALMERS;Kyle;100;Freistil;50;46.44
-CHALMERS;Kyle;100;Freistil;25;44.63
-CHALMERS;Kyle;200;Freistil;50;1:45.19
-CHALMERS;Kyle;200;Freistil;25;1:40.35
-CHALMERS;Kyle;100;Schmetterling;50;52.36
-CHALMERS;Kyle;100;Schmetterling;25;49.81
-DRESSEL;Caeleb;50;Freistil;50;21.04
-DRESSEL;Caeleb;50;Freistil;50;21.04
-DRESSEL;Caeleb;50;Freistil;25;20.16
-DRESSEL;Caeleb;100;Freistil;50;46.96
-DRESSEL;Caeleb;100;Freistil;25;45.08
-DRESSEL;Caeleb;200;Freistil;50;1:46.63
-DRESSEL;Caeleb;100;Rücken;50;56.69
-DRESSEL;Caeleb;50;Brust;50;27.89
-DRESSEL;Caeleb;50;Brust;25;26.01
-DRESSEL;Caeleb;100;Brust;50;1:02.26
-DRESSEL;Caeleb;50;Schmetterling;50;22.35
-DRESSEL;Caeleb;50;Schmetterling;25;22.04
-DRESSEL;Caeleb;100;Schmetterling;50;49.45
-DRESSEL;Caeleb;100;Schmetterling;25;47.78
-DRESSEL;Caeleb;200;Schmetterling;50;1:58.45
-DRESSEL;Caeleb;100;Lagen;25;49.28
-DRESSEL;Caeleb;200;Lagen;50;1:59.97
-DRESSEL;Caeleb;200;Lagen;25;1:51.14
-DRESSEL;Caeleb;100;Freistil;50;47.74
-DRESSEL;Caeleb;100;Freistil;25;44.91
-DRESSEL;Caeleb;200;Freistil;50;1:48.27
-DRESSEL;Caeleb;100;Brust;50;1:07.89
-DRESSEL;Caeleb;100;Brust;25;58.11
-DRESSEL;Caeleb;50;Schmetterling;25;21.7
-DRESSEL;Caeleb;100;Schmetterling;50;49.03
-DRESSEL;Caeleb;100;Schmetterling;25;48.18
-GOVOROV;Andrii;50;Freistil;50;21.46
-GOVOROV;Andrii;50;Freistil;25;20.96
-GOVOROV;Andrii;100;Freistil;50;49.12
-GOVOROV;Andrii;100;Freistil;25;47.58
-GOVOROV;Andrii;200;Freistil;50;2:05.34
-GOVOROV;Andrii;200;Freistil;25;1:56.81
-GOVOROV;Andrii;50;Rücken;50;29.8
-GOVOROV;Andrii;50;Brust;25;28.73
-GOVOROV;Andrii;50;Schmetterling;50;22.27
-GOVOROV;Andrii;50;Schmetterling;25;22.29
-GOVOROV;Andrii;100;Schmetterling;50;52.55
-GOVOROV;Andrii;100;Schmetterling;25;51.85
-GOVOROV;Andrii;100;Lagen;25;56.07
-GOVOROV;Andrii;50;Freistil;50;22.2
-GOVOROV;Andrii;50;Freistil;25;21.22
-GOVOROV;Andrii;100;Freistil;50;49.13
-GOVOROV;Andrii;100;Freistil;25;47.92
-GOVOROV;Andrii;50;Schmetterling;50;23.57
-GOVOROV;Andrii;50;Schmetterling;25;22.76
-GOVOROV;Andrii;100;Schmetterling;25;54.5
-GÜLEÇ;Hamza Niyazi;200;Freistil;50;2:08.52
-GÜLEÇ;Hamza Niyazi;400;Freistil;50;4:31.77
-GÜLEÇ;Hamza Niyazi;400;Freistil;25;4:19.51
-GÜLEÇ;Hamza Niyazi;800;Freistil;50;9:21.62
-GÜLEÇ;Hamza Niyazi;800;Freistil;25;8:52.76
-GÜLEÇ;Hamza Niyazi;1500;Freistil;25;17:03.50
-GÜLEÇ;Hamza Niyazi;100;Schmetterling;50;1:05.95
-GÜLEÇ;Hamza Niyazi;200;Schmetterling;50;2:23.26
-GÜLEÇ;Hamza Niyazi;200;Schmetterling;25;2:13.05
-GÜLEÇ;Hamza Niyazi;200;Lagen;25;2:22.35
-HONDA;Tomoru;200;Freistil;50;1:49.96
-HONDA;Tomoru;400;Freistil;50;4:00.67
-HONDA;Tomoru;400;Freistil;25;3:51.76
-HONDA;Tomoru;50;Schmetterling;50;24.49
-HONDA;Tomoru;100;Schmetterling;50;51.89
-HONDA;Tomoru;200;Schmetterling;50;1:53.61
-HONDA;Tomoru;200;Schmetterling;25;1:46.85
-HONDA;Tomoru;200;Lagen;50;2:08.43
-HONDA;Tomoru;200;Lagen;25;1:54.73
-HONDA;Tomoru;400;Lagen;50;4:12.20
-HONDA;Tomoru;400;Lagen;25;4:04.89
-HONDA;Tomoru;100;Freistil;50;51.45
-HONDA;Tomoru;100;Freistil;25;48.27
-HONDA;Tomoru;100;Schmetterling;50;54.05
-KOLESNIKOV;Kliment;50;Freistil;50;21.69
-KOLESNIKOV;Kliment;50;Freistil;25;20.88
-KOLESNIKOV;Kliment;100;Freistil;50;47.11
-KOLESNIKOV;Kliment;100;Freistil;25;45.58
-KOLESNIKOV;Kliment;200;Freistil;50;1:48.99
-KOLESNIKOV;Kliment;200;Freistil;25;1:41.75
-KOLESNIKOV;Kliment;50;Rücken;50;23.55
-KOLESNIKOV;Kliment;50;Rücken;25;22.11
-KOLESNIKOV;Kliment;100;Rücken;50;51.82
-KOLESNIKOV;Kliment;100;Rücken;25;48.58
-KOLESNIKOV;Kliment;200;Rücken;50;1:55.14
-KOLESNIKOV;Kliment;200;Rücken;25;1:48.02
-KOLESNIKOV;Kliment;50;Brust;50;29.22
-KOLESNIKOV;Kliment;50;Schmetterling;50;24.19
-KOLESNIKOV;Kliment;100;Lagen;25;50.63
-KOLESNIKOV;Kliment;200;Lagen;50;2:00.27
-KOLESNIKOV;Kliment;200;Lagen;25;1:53.36
-KOLESNIKOV;Kliment;400;Lagen;50;4:51.10
-KOLESNIKOV;Kliment;50;Freistil;25;20.45
-KOLESNIKOV;Kliment;100;Freistil;50;47.03
-KOLESNIKOV;Kliment;100;Freistil;25;45.25
-KOLESNIKOV;Kliment;200;Freistil;50;1:55.12
-KOLESNIKOV;Kliment;200;Freistil;25;1:44.89
-LARKIN;Mitchell;50;Freistil;50;23.56
-LARKIN;Mitchell;50;Freistil;25;32.62
-LARKIN;Mitchell;100;Freistil;50;50.28
-LARKIN;Mitchell;100;Freistil;25;48.25
-LARKIN;Mitchell;200;Freistil;50;1:51.04
-LARKIN;Mitchell;200;Freistil;25;1:49.33
-LARKIN;Mitchell;400;Freistil;50;3:56.37
-LARKIN;Mitchell;400;Freistil;25;3:54.72
-LARKIN;Mitchell;800;Freistil;50;8:34.63
-LARKIN;Mitchell;800;Freistil;25;8:23.77
-LARKIN;Mitchell;1500;Freistil;50;16:08.47
-LARKIN;Mitchell;1500;Freistil;25;16:02.04
-LARKIN;Mitchell;50;Rücken;50;24.62
-LARKIN;Mitchell;50;Rücken;25;22.91
-LARKIN;Mitchell;100;Rücken;50;52.11
-LARKIN;Mitchell;100;Rücken;25;49.03
-LARKIN;Mitchell;200;Rücken;50;1:53.17
-LARKIN;Mitchell;200;Rücken;25;1:45.63
-LARKIN;Mitchell;50;Brust;50;29.77
-LARKIN;Mitchell;50;Brust;25;31.71
-LARKIN;Mitchell;100;Brust;50;1:14.55
-LARKIN;Mitchell;100;Brust;25;1:08.51
-LARKIN;Mitchell;200;Brust;50;2:27.37
-LARKIN;Mitchell;200;Brust;25;2:23.15
-LARKIN;Mitchell;50;Schmetterling;50;24.26
-LARKIN;Mitchell;50;Schmetterling;25;25.22
-LARKIN;Mitchell;100;Schmetterling;50;52.78
-LARKIN;Mitchell;100;Lagen;25;52.71
-LARKIN;Mitchell;200;Lagen;50;1:56.21
-LARKIN;Mitchell;200;Lagen;25;1:52.21
-LARKIN;Mitchell;400;Lagen;50;4:14.62
-LARKIN;Mitchell;400;Lagen;25;4:06.26
-LARKIN;Mitchell;50;Freistil;25;24.05
-LARKIN;Mitchell;100;Freistil;50;49.33
-LARKIN;Mitchell;100;Freistil;25;47.24
-LARKIN;Mitchell;200;Freistil;50;1:51.14
-LARKIN;Mitchell;200;Freistil;25;1:43.02
-LARKIN;Mitchell;50;Brust;25;31.79
-LARKIN;Mitchell;100;Brust;50;1:06.16
-LARKIN;Mitchell;100;Brust;25;1:08.74
-MARCHAND;Leon;50;Freistil;50;26.64
-MARCHAND;Leon;50;Freistil;25;23.39
-MARCHAND;Leon;100;Freistil;50;51.27
-MARCHAND;Leon;100;Freistil;25;56.12
-MARCHAND;Leon;200;Freistil;50;1:46.44
-MARCHAND;Leon;200;Freistil;25;1:51.21
-MARCHAND;Leon;400;Freistil;50;4:04.65
-MARCHAND;Leon;400;Freistil;25;4:30.30
-MARCHAND;Leon;800;Freistil;50;10:04.12
-MARCHAND;Leon;800;Freistil;25;9:36.56
-MARCHAND;Leon;1500;Freistil;50;19:47.98
-MARCHAND;Leon;50;Rücken;50;27.61
-MARCHAND;Leon;50;Rücken;25;25.35
-MARCHAND;Leon;100;Rücken;50;58.01
-MARCHAND;Leon;100;Rücken;25;1:06.43
-MARCHAND;Leon;200;Rücken;50;2:11.49
-MARCHAND;Leon;200;Rücken;25;2:01.36
-MARCHAND;Leon;50;Brust;50;28.74
-MARCHAND;Leon;50;Brust;25;28.79
-MARCHAND;Leon;100;Brust;50;1:02.02
-MARCHAND;Leon;100;Brust;25;1:20.84
-MARCHAND;Leon;200;Brust;50;2:06.59
-MARCHAND;Leon;200;Brust;25;2:13.14
-MARCHAND;Leon;50;Schmetterling;50;24.51
-MARCHAND;Leon;50;Schmetterling;25;24.28
-MARCHAND;Leon;100;Schmetterling;50;52.44
-MARCHAND;Leon;100;Schmetterling;25;53.97
-MARCHAND;Leon;200;Schmetterling;50;1:52.43
-MARCHAND;Leon;200;Schmetterling;25;1:58.49
-MARCHAND;Leon;100;Lagen;25;54.03
-MARCHAND;Leon;200;Lagen;50;1:54.82
-MARCHAND;Leon;200;Lagen;25;1:58.07
-MARCHAND;Leon;400;Lagen;50;4:02.50
-MARCHAND;Leon;400;Lagen;25;4:07.55
-MARCHAND;Leon;50;Freistil;25;22.56
-MARCHAND;Leon;100;Freistil;50;49.15
-MARCHAND;Leon;100;Freistil;25;1:09.60
-MARCHAND;Leon;200;Freistil;50;1:44.89
-MARCHAND;Leon;200;Freistil;25;1:48.19
-MARCHAND;Leon;100;Brust;50;59
-MARCHAND;Leon;50;Schmetterling;25;24.16
-MARCHAND;Leon;100;Schmetterling;50;51.5
-MARCHAND;Leon;100;Schmetterling;25;57.76
-MILAK;Kristof;50;Freistil;50;22.06
-MILAK;Kristof;50;Freistil;25;21.03
-MILAK;Kristof;100;Freistil;50;47.47
-MILAK;Kristof;100;Freistil;25;46.72
-MILAK;Kristof;200;Freistil;50;1:45.74
-MILAK;Kristof;200;Freistil;25;1:42.61
-MILAK;Kristof;400;Freistil;50;3:48.08
-MILAK;Kristof;400;Freistil;25;3:39.37
-MILAK;Kristof;800;Freistil;50;8:05.33
-MILAK;Kristof;800;Freistil;25;8:05.42
-MILAK;Kristof;1500;Freistil;50;16:59.83
-MILAK;Kristof;1500;Freistil;25;15:10.39
-MILAK;Kristof;50;Rücken;50;25.23
-MILAK;Kristof;50;Rücken;25;23.08
-MILAK;Kristof;100;Rücken;50;54.67
-MILAK;Kristof;100;Rücken;25;52.09
-MILAK;Kristof;200;Rücken;50;1:59.75
-MILAK;Kristof;200;Rücken;25;2:09.51
-MILAK;Kristof;50;Brust;25;47.77
-MILAK;Kristof;100;Brust;50;1:42.97
-MILAK;Kristof;100;Brust;25;1:36.97
-MILAK;Kristof;50;Schmetterling;50;23.27
-MILAK;Kristof;50;Schmetterling;25;22.42
-MILAK;Kristof;100;Schmetterling;50;49.68
-MILAK;Kristof;100;Schmetterling;25;49.56
-MILAK;Kristof;200;Schmetterling;50;1:50.34
-MILAK;Kristof;200;Schmetterling;25;1:49.86
-MILAK;Kristof;100;Lagen;25;1:06.54
-MILAK;Kristof;200;Lagen;50;2:28.34
-MILAK;Kristof;200;Lagen;25;2:10.37
-MILAK;Kristof;50;Freistil;25;22.09
-MILAK;Kristof;100;Freistil;50;46.89
-MILAK;Kristof;100;Freistil;25;46.99
-MILAK;Kristof;200;Freistil;50;1:44.42
-MILAK;Kristof;50;Schmetterling;25;23.01
-MILAK;Kristof;100;Schmetterling;50;50.83
-MILAK;Kristof;100;Schmetterling;25;49.32
-MURPHY;Ryan F;50;Freistil;50;23.05
-MURPHY;Ryan F;100;Freistil;50;48.88
-MURPHY;Ryan F;200;Freistil;50;1:49.70
-MURPHY;Ryan F;50;Rücken;50;24.24
-MURPHY;Ryan F;50;Rücken;25;22.53
-MURPHY;Ryan F;100;Rücken;50;51.85
-MURPHY;Ryan F;100;Rücken;25;48.5
-MURPHY;Ryan F;200;Rücken;50;1:53.57
-MURPHY;Ryan F;200;Rücken;25;1:47.34
-MURPHY;Ryan F;50;Schmetterling;50;25.5
-MURPHY;Ryan F;50;Schmetterling;25;22.65
-MURPHY;Ryan F;100;Schmetterling;50;51.35
-MURPHY;Ryan F;200;Schmetterling;50;2:13.01
-MURPHY;Ryan F;100;Lagen;25;51.88
-MURPHY;Ryan F;200;Lagen;50;2:03.88
-MURPHY;Ryan F;400;Lagen;50;4:36.45
-MURPHY;Ryan F;100;Freistil;50;52.07
-MURPHY;Ryan F;100;Freistil;25;47.67
-MURPHY;Ryan F;200;Freistil;50;1:52.63
-MURPHY;Ryan F;100;Schmetterling;50;59.2
-PEATY;Adam;50;Freistil;50;24.49
-PEATY;Adam;100;Freistil;50;57.58
-PEATY;Adam;100;Freistil;25;53.01
-PEATY;Adam;200;Freistil;50;1:55.14
-PEATY;Adam;200;Freistil;25;1:54.06
-PEATY;Adam;400;Freistil;25;3:55.25
-PEATY;Adam;50;Brust;50;25.95
-PEATY;Adam;50;Brust;25;25.41
-PEATY;Adam;100;Brust;50;56.88
-PEATY;Adam;100;Brust;25;55.41
-PEATY;Adam;200;Brust;50;2:08.34
-PEATY;Adam;200;Brust;25;2:02.89
-PEATY;Adam;100;Lagen;25;57.92
-PEATY;Adam;200;Lagen;50;2:07.40
-PEATY;Adam;200;Lagen;25;2:03.37
-PEATY;Adam;100;Freistil;50;53.3
-PEATY;Adam;50;Brust;25;25.71
-PEATY;Adam;100;Brust;50;56.53
-PEATY;Adam;100;Brust;25;54.84
-POPOVICI;David;50;Freistil;50;22.16
-POPOVICI;David;50;Freistil;25;21.83
-POPOVICI;David;100;Freistil;50;46.86
-POPOVICI;David;100;Freistil;25;45.64
-POPOVICI;David;200;Freistil;50;1:42.97
-POPOVICI;David;200;Freistil;25;1:40.79
-POPOVICI;David;400;Freistil;50;3:47.99
-POPOVICI;David;400;Freistil;25;3:43.00
-POPOVICI;David;50;Rücken;50;27.13
-POPOVICI;David;100;Rücken;50;57.61
-POPOVICI;David;100;Rücken;25;57.06
-POPOVICI;David;200;Rücken;50;2:08.43
-POPOVICI;David;50;Schmetterling;50;24.38
-POPOVICI;David;50;Schmetterling;25;25.7
-POPOVICI;David;100;Schmetterling;50;58.18
-POPOVICI;David;100;Schmetterling;25;52.67
-POPOVICI;David;100;Lagen;25;53.47
-POPOVICI;David;200;Lagen;50;2:02.17
-POPOVICI;David;200;Lagen;25;2:08.85
-POPOVICI;David;400;Lagen;50;4:28.86
-POPOVICI;David;400;Lagen;25;4:33.32
-POPOVICI;David;100;Freistil;50;48
-POPOVICI;David;200;Freistil;50;1:45.72
-PRIGODA;Kirill;50;Freistil;50;22.7
-PRIGODA;Kirill;50;Freistil;25;21.63
-PRIGODA;Kirill;100;Freistil;50;51.16
-PRIGODA;Kirill;100;Freistil;25;47.72
-PRIGODA;Kirill;200;Freistil;50;1:54.63
-PRIGODA;Kirill;200;Freistil;25;1:48.22
-PRIGODA;Kirill;400;Freistil;50;4:08.41
-PRIGODA;Kirill;400;Freistil;25;4:03.10
-PRIGODA;Kirill;50;Rücken;50;34.2
-PRIGODA;Kirill;50;Rücken;25;30.47
-PRIGODA;Kirill;100;Rücken;50;1:07.67
-PRIGODA;Kirill;100;Rücken;25;1:21.33
-PRIGODA;Kirill;200;Rücken;50;2:34.49
-PRIGODA;Kirill;200;Rücken;25;2:02.05
-PRIGODA;Kirill;50;Brust;50;26.72
-PRIGODA;Kirill;50;Brust;25;25.49
-PRIGODA;Kirill;100;Brust;50;58.92
-PRIGODA;Kirill;100;Brust;25;56.02
-PRIGODA;Kirill;200;Brust;50;2:07.25
-PRIGODA;Kirill;200;Brust;25;2:00.16
-PRIGODA;Kirill;50;Schmetterling;50;24.54
-PRIGODA;Kirill;50;Schmetterling;25;23.66
-PRIGODA;Kirill;100;Schmetterling;25;1:09.96
-PRIGODA;Kirill;200;Schmetterling;25;2:00.67
-PRIGODA;Kirill;100;Lagen;25;53.96
-PRIGODA;Kirill;200;Lagen;50;1:59.65
-PRIGODA;Kirill;200;Lagen;25;1:53.47
-PRIGODA;Kirill;400;Lagen;50;4:27.00
-PRIGODA;Kirill;400;Lagen;25;4:19.80
-PRIGODA;Kirill;50;Freistil;25;21.7
-PRIGODA;Kirill;100;Freistil;50;51.87
-PRIGODA;Kirill;100;Freistil;25;47.81
-PRIGODA;Kirill;200;Freistil;50;1:55.19
-PRIGODA;Kirill;200;Freistil;25;1:51.73
-PRIGODA;Kirill;50;Brust;25;25.26
-PRIGODA;Kirill;100;Brust;50;58.59
-PRIGODA;Kirill;100;Brust;50;58.59
-PRIGODA;Kirill;100;Brust;25;55.78
-PRIGODA;Kirill;50;Schmetterling;25;24.14
-QIN;Haiyang;50;Brust;50;26.2
-QIN;Haiyang;50;Brust;25;25.81
-QIN;Haiyang;100;Brust;50;57.69
-QIN;Haiyang;100;Brust;50;57.69
-QIN;Haiyang;100;Brust;25;56.33
-QIN;Haiyang;200;Brust;50;2:05.48
-QIN;Haiyang;200;Brust;25;2:01.15
-QIN;Haiyang;100;Lagen;25;57.18
-QIN;Haiyang;200;Lagen;50;1:57.06
-QIN;Haiyang;200;Lagen;25;1:54.98
-QIN;Haiyang;50;Brust;25;25.92
-QIN;Haiyang;100;Brust;50;57.43
-QIN;Haiyang;100;Brust;25;57.36
-SAKÇI;Emre;50;Freistil;50;22.09
-SAKÇI;Emre;50;Freistil;25;21.1
-SAKÇI;Emre;100;Freistil;50;49.43
-SAKÇI;Emre;100;Freistil;25;46.63
-SAKÇI;Emre;200;Freistil;50;1:55.81
-SAKÇI;Emre;200;Freistil;25;1:44.37
-SAKÇI;Emre;400;Freistil;50;4:38.22
-SAKÇI;Emre;400;Freistil;25;4:29.22
-SAKÇI;Emre;800;Freistil;50;9:32.17
-SAKÇI;Emre;1500;Freistil;50;18:01.63
-SAKÇI;Emre;1500;Freistil;25;17:34.51
-SAKÇI;Emre;50;Rücken;25;25.09
-SAKÇI;Emre;50;Brust;50;26.83
-SAKÇI;Emre;50;Brust;25;24.95
-SAKÇI;Emre;100;Brust;50;58.85
-SAKÇI;Emre;100;Brust;25;55.74
-SAKÇI;Emre;200;Brust;50;2:33.25
-SAKÇI;Emre;200;Brust;25;2:09.13
-SAKÇI;Emre;50;Schmetterling;50;23.96
-SAKÇI;Emre;50;Schmetterling;25;22.66
-SAKÇI;Emre;100;Schmetterling;25;1:00.66
-SAKÇI;Emre;100;Lagen;25;51.79
-SAKÇI;Emre;200;Lagen;50;2:22.35
-SAKÇI;Emre;400;Lagen;50;5:29.88
-SAKÇI;Emre;400;Lagen;25;5:08.74
-SAKÇI;Emre;50;Freistil;25;21.28
-SAKÇI;Emre;100;Freistil;50;48.87
-SAKÇI;Emre;100;Freistil;25;46.55
-SAKÇI;Emre;200;Freistil;50;2:00.49
-SAKÇI;Emre;200;Freistil;25;1:46.55
-SAKÇI;Emre;50;Brust;25;25.11
-SAKÇI;Emre;100;Brust;50;58.76
-SAKÇI;Emre;100;Brust;25;55.79
-SANTOS;Nicholas;50;Freistil;50;21.69
-SANTOS;Nicholas;50;Freistil;25;20.74
-SANTOS;Nicholas;100;Freistil;50;49.14
-SANTOS;Nicholas;100;Freistil;25;47.31
-SANTOS;Nicholas;50;Schmetterling;50;22.6
-SANTOS;Nicholas;50;Schmetterling;25;21.75
-SANTOS;Nicholas;100;Schmetterling;50;53.16
-SANTOS;Nicholas;100;Schmetterling;25;49.87
-SANTOS;Nicholas;50;Freistil;25;21.63
-SANTOS;Nicholas;100;Freistil;50;49.68
-SANTOS;Nicholas;100;Freistil;25;47.05
-SANTOS;Nicholas;200;Freistil;50;1:57.81
-SANTOS;Nicholas;50;Schmetterling;25;21.68
-SANTOS;Nicholas;100;Schmetterling;50;53.7
-SANTOS;Nicholas;100;Schmetterling;25;49.42
-SETO;Daiya;50;Freistil;50;25.01
-SETO;Daiya;100;Freistil;50;53.32
-SETO;Daiya;100;Freistil;25;49.83
-SETO;Daiya;200;Freistil;50;1:48.71
-SETO;Daiya;200;Freistil;25;1:43.90
-SETO;Daiya;400;Freistil;50;4:11.00
-SETO;Daiya;400;Freistil;25;3:48.85
-SETO;Daiya;800;Freistil;25;7:53.36
-SETO;Daiya;1500;Freistil;25;14:48.97
-SETO;Daiya;50;Rücken;50;28.64
-SETO;Daiya;100;Rücken;50;1:01.98
-SETO;Daiya;200;Rücken;25;1:53.93
-SETO;Daiya;50;Brust;50;27.97
-SETO;Daiya;50;Brust;25;26.66
-SETO;Daiya;100;Brust;25;56.93
-SETO;Daiya;200;Brust;50;2:11.21
-SETO;Daiya;200;Brust;25;2:00.35
-SETO;Daiya;50;Schmetterling;50;25.16
-SETO;Daiya;50;Schmetterling;25;23.57
-SETO;Daiya;100;Schmetterling;50;52.36
-SETO;Daiya;100;Schmetterling;25;50.71
-SETO;Daiya;200;Schmetterling;50;1:52.53
-SETO;Daiya;200;Schmetterling;25;1:48.24
-SETO;Daiya;100;Lagen;25;51.29
-SETO;Daiya;200;Lagen;50;1:55.55
-SETO;Daiya;200;Lagen;25;1:50.66
-SETO;Daiya;400;Lagen;50;4:07.95
-SETO;Daiya;400;Lagen;25;3:54.81
-SETO;Daiya;50;Freistil;50;25.66
-SETO;Daiya;50;Freistil;25;22.29
-SETO;Daiya;100;Freistil;50;50.7
-SETO;Daiya;100;Freistil;25;48.74
-SETO;Daiya;200;Freistil;50;1:47.45
-SETO;Daiya;200;Freistil;25;1:42.54
-SETO;Daiya;50;Schmetterling;50;26.77
-SETO;Daiya;100;Schmetterling;50;53.21
-SETO;Daiya;100;Schmetterling;25;50.1
-SHYMANOVICH;Ilya;50;Freistil;50;23.24
-SHYMANOVICH;Ilya;50;Freistil;25;22.54
-SHYMANOVICH;Ilya;100;Freistil;50;50.8
-SHYMANOVICH;Ilya;100;Freistil;25;48.68
-SHYMANOVICH;Ilya;200;Freistil;25;1:48.19
-SHYMANOVICH;Ilya;400;Freistil;50;4:15.93
-SHYMANOVICH;Ilya;50;Rücken;50;27.61
-SHYMANOVICH;Ilya;100;Rücken;25;56.57
-SHYMANOVICH;Ilya;50;Brust;50;26.28
-SHYMANOVICH;Ilya;50;Brust;25;25.25
-SHYMANOVICH;Ilya;100;Brust;50;58.29
-SHYMANOVICH;Ilya;100;Brust;25;55.28
-SHYMANOVICH;Ilya;200;Brust;50;2:10.97
-SHYMANOVICH;Ilya;200;Brust;25;2:01.73
-SHYMANOVICH;Ilya;50;Schmetterling;50;24.15
-SHYMANOVICH;Ilya;50;Schmetterling;25;23.51
-SHYMANOVICH;Ilya;100;Schmetterling;50;54.56
-SHYMANOVICH;Ilya;100;Schmetterling;25;52.17
-SHYMANOVICH;Ilya;200;Schmetterling;25;1:57.87
-SHYMANOVICH;Ilya;100;Lagen;25;53.26
-SHYMANOVICH;Ilya;200;Lagen;50;2:02.49
-SHYMANOVICH;Ilya;200;Lagen;25;1:57.75
-SHYMANOVICH;Ilya;400;Lagen;50;4:35.49
-SHYMANOVICH;Ilya;400;Lagen;25;4:16.97
-SHYMANOVICH;Ilya;50;Freistil;25;21.52
-SHYMANOVICH;Ilya;100;Freistil;50;49.5
-SHYMANOVICH;Ilya;100;Freistil;25;48.88
-SHYMANOVICH;Ilya;200;Freistil;50;1:54.40
-SHYMANOVICH;Ilya;200;Freistil;25;1:51.77
-SHYMANOVICH;Ilya;50;Brust;25;25.04
-SHYMANOVICH;Ilya;100;Brust;50;57.84
-SHYMANOVICH;Ilya;100;Brust;25;55
-SHYMANOVICH;Ilya;50;Schmetterling;25;24.81
-STEWART;Coleman M;50;Freistil;50;23.67
-STEWART;Coleman M;50;Freistil;25;21.62
-STEWART;Coleman M;100;Freistil;50;48.45
-STEWART;Coleman M;100;Freistil;25;47.74
-STEWART;Coleman M;200;Freistil;50;1:50.96
-STEWART;Coleman M;400;Freistil;50;4:25.23
-STEWART;Coleman M;800;Freistil;50;9:32.75
-STEWART;Coleman M;50;Rücken;50;25.32
-STEWART;Coleman M;50;Rücken;25;22.61
-STEWART;Coleman M;100;Rücken;50;53.85
-STEWART;Coleman M;100;Rücken;25;48.33
-STEWART;Coleman M;200;Rücken;50;1:58.30
-STEWART;Coleman M;200;Rücken;25;1:50.98
-STEWART;Coleman M;50;Brust;50;44.51
-STEWART;Coleman M;100;Brust;50;1:13.82
-STEWART;Coleman M;200;Brust;50;2:38.45
-STEWART;Coleman M;50;Schmetterling;50;23.84
-STEWART;Coleman M;50;Schmetterling;25;22.98
-STEWART;Coleman M;100;Schmetterling;50;51.54
-STEWART;Coleman M;100;Schmetterling;25;49.1
-STEWART;Coleman M;200;Lagen;50;2:08.60
-STEWART;Coleman M;400;Lagen;50;4:43.98
-STEWART;Coleman M;100;Freistil;50;51.3
-STEWART;Coleman M;200;Freistil;50;1:52.83
-STEWART;Coleman M;100;Brust;50;1:07.07
-STEWART;Coleman M;100;Schmetterling;25;50.85
-STUBBLETY-COOK;Zac;100;Freistil;50;59.13
-STUBBLETY-COOK;Zac;100;Freistil;25;54.68
-STUBBLETY-COOK;Zac;200;Freistil;25;1:57.72
-STUBBLETY-COOK;Zac;50;Brust;50;27.94
-STUBBLETY-COOK;Zac;50;Brust;25;27.57
-STUBBLETY-COOK;Zac;100;Brust;50;59.51
-STUBBLETY-COOK;Zac;100;Brust;25;58.18
-STUBBLETY-COOK;Zac;200;Brust;50;2:05.95
-STUBBLETY-COOK;Zac;200;Brust;25;2:03.94
-STUBBLETY-COOK;Zac;50;Schmetterling;25;29.56
-STUBBLETY-COOK;Zac;100;Lagen;25;57.53
-STUBBLETY-COOK;Zac;200;Lagen;50;2:03.62
-STUBBLETY-COOK;Zac;200;Lagen;25;2:10.54
-STUBBLETY-COOK;Zac;100;Brust;50;58.67
-STUBBLETY-COOK;Zac;100;Brust;25;58.08
-SZABO;Szebasztian;50;Freistil;50;21.6
-SZABO;Szebasztian;50;Freistil;25;20.72
-SZABO;Szebasztian;100;Freistil;50;48.19
-SZABO;Szebasztian;100;Freistil;25;46.63
-SZABO;Szebasztian;200;Freistil;50;1:53.92
-SZABO;Szebasztian;400;Freistil;50;4:51.49
-SZABO;Szebasztian;400;Freistil;25;5:30.34
-SZABO;Szebasztian;50;Rücken;50;25.32
-SZABO;Szebasztian;50;Rücken;25;23.47
-SZABO;Szebasztian;100;Rücken;50;57.15
-SZABO;Szebasztian;100;Rücken;25;54.28
-SZABO;Szebasztian;200;Rücken;25;2:37.15
-SZABO;Szebasztian;50;Brust;50;30.63
-SZABO;Szebasztian;50;Brust;25;41.05
-SZABO;Szebasztian;100;Brust;50;1:37.27
-SZABO;Szebasztian;200;Brust;50;3:24.61
-SZABO;Szebasztian;50;Schmetterling;50;22.9
-SZABO;Szebasztian;50;Schmetterling;25;21.75
-SZABO;Szebasztian;100;Schmetterling;50;51.28
-SZABO;Szebasztian;100;Schmetterling;25;49.68
-SZABO;Szebasztian;100;Lagen;25;53.84
-SZABO;Szebasztian;200;Lagen;50;2:30.37
-SZABO;Szebasztian;200;Lagen;25;2:41.48
-SZABO;Szebasztian;50;Freistil;25;21.01
-SZABO;Szebasztian;100;Freistil;50;47.37
-SZABO;Szebasztian;100;Freistil;25;46.26
-SZABO;Szebasztian;100;Freistil;25;46.26
-SZABO;Szebasztian;200;Freistil;50;1:54.59
-SZABO;Szebasztian;50;Schmetterling;25;21.77
-SZABO;Szebasztian;100;Schmetterling;50;51
-SZABO;Szebasztian;100;Schmetterling;25;48.97
-WELLBROCK;Florian;50;Freistil;50;24.81
-WELLBROCK;Florian;50;Freistil;25;24.3
-WELLBROCK;Florian;100;Freistil;50;52.12
-WELLBROCK;Florian;100;Freistil;25;50.83
-WELLBROCK;Florian;200;Freistil;50;1:49.18
-WELLBROCK;Florian;200;Freistil;25;1:46.98
-WELLBROCK;Florian;400;Freistil;50;3:44.35
-WELLBROCK;Florian;400;Freistil;25;3:40.83
-WELLBROCK;Florian;800;Freistil;50;7:39.63
-WELLBROCK;Florian;800;Freistil;25;7:27.99
-WELLBROCK;Florian;1500;Freistil;50;14:34.89
-WELLBROCK;Florian;1500;Freistil;25;14:06.88
-WELLBROCK;Florian;2000;Freistil;50;21:27.78
-WELLBROCK;Florian;3000;Freistil;50;31:42.12
-WELLBROCK;Florian;5000;Freistil;50;52:04.71
-WELLBROCK;Florian;50;Rücken;50;41.62
-WELLBROCK;Florian;50;Rücken;25;27.28
-WELLBROCK;Florian;100;Rücken;50;1:04.03
-WELLBROCK;Florian;100;Rücken;25;57.52
-WELLBROCK;Florian;200;Rücken;50;2:14.91
-WELLBROCK;Florian;200;Rücken;25;2:00.49
-WELLBROCK;Florian;100;Brust;25;1:11.48
-WELLBROCK;Florian;50;Schmetterling;50;26.59
-WELLBROCK;Florian;100;Schmetterling;50;56
-WELLBROCK;Florian;100;Schmetterling;25;56.71
-WELLBROCK;Florian;200;Schmetterling;50;2:01.45
-WELLBROCK;Florian;200;Schmetterling;25;1:59.68
-WELLBROCK;Florian;100;Lagen;25;59.22
-WELLBROCK;Florian;200;Lagen;50;2:09.98
-WELLBROCK;Florian;200;Lagen;25;2:05.69
-WELLBROCK;Florian;400;Lagen;50;4:27.13
-WELLBROCK;Florian;400;Lagen;25;4:18.40
-WELLBROCK;Florian;50;Freistil;25;24.1
-WELLBROCK;Florian;100;Freistil;50;54.96
-WELLBROCK;Florian;200;Freistil;50;1:54.98
-WELLBROCK;Florian;50;Schmetterling;25;26.13
-WILLIER;Diesel;50;Freistil;25;29.41
-WILLIER;Diesel;100;Freistil;25;1:06.05
-WILLIER;Diesel;200;Freistil;25;1:37.15
-WILLIER;Diesel;800;Freistil;25;11:26.29
-WILLIER;Diesel;100;Schmetterling;25;1:18.48
-WILLIER;Diesel;100;Lagen;25;1:16.05
-ATHERTON;Minna;50;Freestyle;50;26.14
-ATHERTON;Minna;50;Freestyle;25;25.39
-ATHERTON;Minna;100;Freestyle;50;56.42
-ATHERTON;Minna;100;Freestyle;25;54.48
-ATHERTON;Minna;200;Freestyle;50;2:02.57
-ATHERTON;Minna;200;Freestyle;25;1:57.11
-ATHERTON;Minna;400;Freestyle;50;4:31.91
-ATHERTON;Minna;400;Freestyle;25;4:52.18
-ATHERTON;Minna;50;Backstroke;50;27.49
-ATHERTON;Minna;50;Backstroke;25;25.81
-ATHERTON;Minna;100;Backstroke;50;58.6
-ATHERTON;Minna;100;Backstroke;25;54.89
-ATHERTON;Minna;200;Backstroke;50;2:07.38
-ATHERTON;Minna;200;Backstroke;25;1:59.25
-ATHERTON;Minna;50;Breaststroke;25;40.66
-ATHERTON;Minna;100;Breaststroke;50;1:31.30
-ATHERTON;Minna;50;Butterfly;50;28.89
-ATHERTON;Minna;100;Butterfly;50;1:02.89
-ATHERTON;Minna;100;Medley;25;1:01.90
-ATHERTON;Minna;200;Medley;50;2:18.44
-ATHERTON;Minna;50;Freestyle;25;24.02
-ATHERTON;Minna;100;Freestyle;50;55.93
-ATHERTON;Minna;100;Freestyle;25;52.19
-ATHERTON;Minna;200;Freestyle;25;1:54.73
-BELMONTE GARCIA;Mireia;50;Freestyle;50;27.93
-BELMONTE GARCIA;Mireia;50;Freestyle;25;25.63
-BELMONTE GARCIA;Mireia;100;Freestyle;50;58.02
-BELMONTE GARCIA;Mireia;100;Freestyle;25;54.92
-BELMONTE GARCIA;Mireia;200;Freestyle;50;1:57.58
-BELMONTE GARCIA;Mireia;200;Freestyle;25;1:55.33
-BELMONTE GARCIA;Mireia;400;Freestyle;50;4:03.84
-BELMONTE GARCIA;Mireia;400;Freestyle;25;3:54.52
-BELMONTE GARCIA;Mireia;800;Freestyle;50;8:18.55
-BELMONTE GARCIA;Mireia;800;Freestyle;25;7:59.34
-BELMONTE GARCIA;Mireia;1500;Freestyle;50;15:50.89
-BELMONTE GARCIA;Mireia;1500;Freestyle;25;15:19.71
-BELMONTE GARCIA;Mireia;2000;Freestyle;25;21:45.16
-BELMONTE GARCIA;Mireia;3000;Freestyle;25;32:28.90
-BELMONTE GARCIA;Mireia;5000;Freestyle;50;56:00.31
-BELMONTE GARCIA;Mireia;50;Backstroke;50;30.65
-BELMONTE GARCIA;Mireia;100;Backstroke;50;1:05.70
-BELMONTE GARCIA;Mireia;100;Backstroke;25;1:01.87
-BELMONTE GARCIA;Mireia;200;Backstroke;50;2:14.37
-BELMONTE GARCIA;Mireia;200;Backstroke;25;2:11.82
-BELMONTE GARCIA;Mireia;50;Breaststroke;50;34.19
-BELMONTE GARCIA;Mireia;100;Breaststroke;50;1:11.39
-BELMONTE GARCIA;Mireia;100;Breaststroke;25;1:06.12
-BELMONTE GARCIA;Mireia;200;Breaststroke;50;2:27.00
-BELMONTE GARCIA;Mireia;200;Breaststroke;25;2:21.65
-BELMONTE GARCIA;Mireia;50;Butterfly;50;28.92
-BELMONTE GARCIA;Mireia;50;Butterfly;25;27.99
-BELMONTE GARCIA;Mireia;100;Butterfly;50;1:00.84
-BELMONTE GARCIA;Mireia;100;Butterfly;25;59.38
-BELMONTE GARCIA;Mireia;200;Butterfly;50;2:04.78
-BELMONTE GARCIA;Mireia;200;Butterfly;25;1:59.61
-BELMONTE GARCIA;Mireia;100;Medley;25;1:00.80
-BELMONTE GARCIA;Mireia;200;Medley;50;2:09.45
-BELMONTE GARCIA;Mireia;200;Medley;25;2:05.73
-BELMONTE GARCIA;Mireia;400;Medley;50;4:31.21
-BELMONTE GARCIA;Mireia;400;Medley;25;4:18.94
-BELMONTE GARCIA;Mireia;100;Freestyle;50;1:00.63
-BELMONTE GARCIA;Mireia;200;Freestyle;50;1:57.85
-BELMONTE GARCIA;Mireia;100;Breaststroke;50;1:10.46
-BELMONTE GARCIA;Mireia;100;Butterfly;50;1:00.75
-CAMPBELL;Cate;50;Freestyle;50;23.78
-CAMPBELL;Cate;50;Freestyle;25;23.19
-CAMPBELL;Cate;100;Freestyle;50;52.03
-CAMPBELL;Cate;100;Freestyle;25;50.25
-CAMPBELL;Cate;200;Freestyle;50;1:58.21
-CAMPBELL;Cate;200;Freestyle;25;1:54.69
-CAMPBELL;Cate;50;Backstroke;50;31.43
-CAMPBELL;Cate;50;Backstroke;25;28.69
-CAMPBELL;Cate;100;Backstroke;25;1:19.59
-CAMPBELL;Cate;100;Breaststroke;25;1:23.58
-CAMPBELL;Cate;200;Breaststroke;25;2:57.09
-CAMPBELL;Cate;50;Butterfly;50;25.47
-CAMPBELL;Cate;50;Butterfly;25;25.29
-CAMPBELL;Cate;200;Medley;25;2:49.76
-CAMPBELL;Cate;50;Freestyle;50;23.29
-CAMPBELL;Cate;50;Freestyle;25;24.4
-CAMPBELL;Cate;100;Freestyle;50;51
-CAMPBELL;Cate;100;Freestyle;25;50.38
-CHIKUNOVA;Evgeniia;50;Breaststroke;50;30.54
-CHIKUNOVA;Evgeniia;50;Breaststroke;25;29.85
-CHIKUNOVA;Evgeniia;100;Breaststroke;50;1:04.92
-CHIKUNOVA;Evgeniia;100;Breaststroke;25;1:03.53
-CHIKUNOVA;Evgeniia;200;Breaststroke;50;2:17.55
-CHIKUNOVA;Evgeniia;200;Breaststroke;25;2:14.70
-CHIKUNOVA;Evgeniia;50;Butterfly;25;27.67
-CHIKUNOVA;Evgeniia;100;Medley;25;1:01.56
-CHIKUNOVA;Evgeniia;200;Medley;50;2:30.96
-CHIKUNOVA;Evgeniia;400;Medley;50;4:55.34
-CHIKUNOVA;Evgeniia;50;Breaststroke;25;29.39
-CHIKUNOVA;Evgeniia;100;Breaststroke;50;1:05.09
-CHIKUNOVA;Evgeniia;100;Breaststroke;25;1:03.76
-DOUGLASS;Katherine C;50;Freestyle;50;24.48
-DOUGLASS;Katherine C;100;Freestyle;50;52.57
-DOUGLASS;Katherine C;100;Freestyle;25;52.39
-DOUGLASS;Katherine C;200;Freestyle;50;2:03.21
-DOUGLASS;Katherine C;100;Backstroke;50;1:05.08
-DOUGLASS;Katherine C;50;Breaststroke;50;32.9
-DOUGLASS;Katherine C;100;Breaststroke;50;1:08.51
-DOUGLASS;Katherine C;200;Breaststroke;50;2:21.22
-DOUGLASS;Katherine C;200;Breaststroke;25;2:15.77
-DOUGLASS;Katherine C;50;Butterfly;50;26.92
-DOUGLASS;Katherine C;100;Butterfly;50;56.43
-DOUGLASS;Katherine C;200;Medley;50;2:07.09
-DOUGLASS;Katherine C;200;Medley;25;2:02.12
-DOUGLASS;Katherine C;400;Medley;50;4:59.46
-DOUGLASS;Katherine C;50;Freestyle;25;22.72
-DOUGLASS;Katherine C;100;Freestyle;50;52.28
-DOUGLASS;Katherine C;100;Freestyle;25;50.47
-DOUGLASS;Katherine C;200;Freestyle;50;2:05.75
-DOUGLASS;Katherine C;100;Breaststroke;50;1:10.85
-DOUGLASS;Katherine C;100;Breaststroke;25;1:05.06
-DOUGLASS;Katherine C;100;Butterfly;25;54.46
-HAUGHEY;Siobhan;50;Freestyle;50;24.3
-HAUGHEY;Siobhan;50;Freestyle;25;23.75
-HAUGHEY;Siobhan;100;Freestyle;50;52.02
-HAUGHEY;Siobhan;100;Freestyle;25;50.79
-HAUGHEY;Siobhan;200;Freestyle;50;1:53.92
-HAUGHEY;Siobhan;200;Freestyle;25;1:50.31
-HAUGHEY;Siobhan;400;Freestyle;50;4:05.30
-HAUGHEY;Siobhan;400;Freestyle;25;3:56.52
-HAUGHEY;Siobhan;50;Breaststroke;50;30.36
-HAUGHEY;Siobhan;50;Breaststroke;25;29.88
-HAUGHEY;Siobhan;100;Breaststroke;50;1:10.04
-HAUGHEY;Siobhan;200;Breaststroke;50;2:40.88
-HAUGHEY;Siobhan;200;Medley;50;2:12.10
-HAUGHEY;Siobhan;200;Medley;25;2:07.65
-HAUGHEY;Siobhan;400;Medley;50;4:55.49
-HAUGHEY;Siobhan;100;Freestyle;50;52.59
-HAUGHEY;Siobhan;100;Freestyle;25;50.7
-HAUGHEY;Siobhan;200;Freestyle;50;1:56.84
-HAUGHEY;Siobhan;100;Breaststroke;50;1:07.49
-HAUGHEY;Siobhan;100;Butterfly;50;57.67
-HUSKE;Torri;50;Freestyle;50;24.45
-HUSKE;Torri;50;Freestyle;25;24.08
-HUSKE;Torri;100;Freestyle;50;52.92
-HUSKE;Torri;100;Freestyle;25;51.73
-HUSKE;Torri;200;Freestyle;50;1:59.14
-HUSKE;Torri;200;Freestyle;25;1:54.72
-HUSKE;Torri;50;Backstroke;50;28.37
-HUSKE;Torri;200;Breaststroke;50;2:42.45
-HUSKE;Torri;50;Butterfly;50;25.33
-HUSKE;Torri;50;Butterfly;25;24.64
-HUSKE;Torri;100;Butterfly;50;55.64
-HUSKE;Torri;100;Butterfly;25;54.75
-HUSKE;Torri;200;Butterfly;50;2:14.56
-HUSKE;Torri;200;Medley;50;2:09.75
-HUSKE;Torri;50;Freestyle;25;24.44
-HUSKE;Torri;100;Freestyle;50;54.5
-HUSKE;Torri;100;Freestyle;25;52.74
-HUSKE;Torri;200;Freestyle;50;2:04.00
-HUSKE;Torri;50;Butterfly;25;24.94
-HUSKE;Torri;100;Butterfly;50;56.16
-HUSKE;Torri;100;Butterfly;25;54.53
-KING;Lillia C;50;Freestyle;50;27.99
-KING;Lillia C;50;Freestyle;25;27.14
-KING;Lillia C;200;Backstroke;50;2:19.30
-KING;Lillia C;50;Breaststroke;50;29.4
-KING;Lillia C;50;Breaststroke;25;28.77
-KING;Lillia C;100;Breaststroke;50;1:04.13
-KING;Lillia C;100;Breaststroke;25;1:02.50
-KING;Lillia C;200;Breaststroke;50;2:19.92
-KING;Lillia C;200;Breaststroke;25;2:15.56
-KING;Lillia C;50;Butterfly;50;28.83
-KING;Lillia C;100;Medley;25;1:00.05
-KING;Lillia C;200;Medley;50;2:16.18
-KING;Lillia C;200;Medley;25;2:16.07
-KING;Lillia C;400;Medley;50;4:46.49
-KING;Lillia C;50;Breaststroke;25;28.78
-KING;Lillia C;100;Breaststroke;50;1:04.48
-KING;Lillia C;100;Breaststroke;25;1:02.40
-LI;Bingjie;100;Freestyle;50;54.4
-LI;Bingjie;100;Freestyle;25;54.95
-LI;Bingjie;200;Freestyle;50;1:55.83
-LI;Bingjie;200;Freestyle;25;1:53.42
-LI;Bingjie;400;Freestyle;50;4:01.08
-LI;Bingjie;400;Freestyle;25;3:51.30
-LI;Bingjie;800;Freestyle;50;8:13.31
-LI;Bingjie;800;Freestyle;25;8:02.90
-LI;Bingjie;1500;Freestyle;50;15:45.71
-LI;Bingjie;200;Medley;25;2:14.94
-LI;Bingjie;400;Medley;25;4:40.03
-LI;Bingjie;100;Freestyle;50;54.16
-LI;Bingjie;200;Freestyle;50;1:55.30
-LI;Bingjie;200;Freestyle;25;1:57.72
-MACNEIL;Margaret;50;Freestyle;50;24.79
-MACNEIL;Margaret;50;Freestyle;25;23.74
-MACNEIL;Margaret;100;Freestyle;50;53.77
-MACNEIL;Margaret;100;Freestyle;25;51.82
-MACNEIL;Margaret;200;Freestyle;50;2:02.61
-MACNEIL;Margaret;200;Freestyle;25;1:59.31
-MACNEIL;Margaret;400;Freestyle;50;4:34.62
-MACNEIL;Margaret;400;Freestyle;25;4:15.80
-MACNEIL;Margaret;800;Freestyle;50;9:18.79
-MACNEIL;Margaret;800;Freestyle;25;8:52.34
-MACNEIL;Margaret;1500;Freestyle;50;17:57.70
-MACNEIL;Margaret;1500;Freestyle;25;17:33.90
-MACNEIL;Margaret;50;Backstroke;50;28.18
-MACNEIL;Margaret;50;Backstroke;25;25.25
-MACNEIL;Margaret;100;Backstroke;50;59.45
-MACNEIL;Margaret;100;Backstroke;25;56.16
-MACNEIL;Margaret;200;Backstroke;50;2:21.00
-MACNEIL;Margaret;200;Backstroke;25;2:09.33
-MACNEIL;Margaret;50;Breaststroke;50;35.67
-MACNEIL;Margaret;50;Breaststroke;25;34.68
-MACNEIL;Margaret;100;Breaststroke;50;1:17.50
-MACNEIL;Margaret;100;Breaststroke;25;1:13.53
-MACNEIL;Margaret;200;Breaststroke;50;2:47.80
-MACNEIL;Margaret;200;Breaststroke;25;2:38.37
-MACNEIL;Margaret;50;Butterfly;50;25.97
-MACNEIL;Margaret;50;Butterfly;25;24.64
-MACNEIL;Margaret;100;Butterfly;50;55.59
-MACNEIL;Margaret;100;Butterfly;25;54.05
-MACNEIL;Margaret;200;Butterfly;50;2:14.56
-MACNEIL;Margaret;200;Butterfly;25;2:10.44
-MACNEIL;Margaret;100;Medley;25;1:00.12
-MACNEIL;Margaret;200;Medley;50;2:19.61
-MACNEIL;Margaret;200;Medley;25;2:14.10
-MACNEIL;Margaret;400;Medley;50;5:00.06
-MACNEIL;Margaret;400;Medley;25;4:46.47
-MACNEIL;Margaret;50;Freestyle;50;26.02
-MACNEIL;Margaret;50;Freestyle;25;23.5
-MACNEIL;Margaret;100;Freestyle;50;53.07
-MACNEIL;Margaret;100;Freestyle;25;51.11
-MACNEIL;Margaret;200;Freestyle;50;2:03.75
-MACNEIL;Margaret;200;Freestyle;25;2:00.06
-MACNEIL;Margaret;100;Breaststroke;50;1:19.65
-MACNEIL;Margaret;50;Butterfly;50;26.96
-MACNEIL;Margaret;50;Butterfly;25;24.4
-MACNEIL;Margaret;100;Butterfly;50;55.27
-MACNEIL;Margaret;100;Butterfly;25;54.59
-MCINTOSH;Summer;50;Freestyle;50;27.17
-MCINTOSH;Summer;50;Freestyle;25;27.43
-MCINTOSH;Summer;100;Freestyle;50;54.39
-MCINTOSH;Summer;100;Freestyle;25;54.14
-MCINTOSH;Summer;200;Freestyle;50;1:53.65
-MCINTOSH;Summer;200;Freestyle;25;1:52.63
-MCINTOSH;Summer;400;Freestyle;50;3:56.08
-MCINTOSH;Summer;400;Freestyle;25;3:52.80
-MCINTOSH;Summer;800;Freestyle;50;8:20.19
-MCINTOSH;Summer;800;Freestyle;25;8:07.12
-MCINTOSH;Summer;1500;Freestyle;50;16:15.19
-MCINTOSH;Summer;1500;Freestyle;25;16:17.40
-MCINTOSH;Summer;50;Backstroke;50;32.27
-MCINTOSH;Summer;50;Backstroke;25;30.04
-MCINTOSH;Summer;100;Backstroke;50;1:00.25
-MCINTOSH;Summer;100;Backstroke;25;58.11
-MCINTOSH;Summer;200;Backstroke;50;2:07.15
-MCINTOSH;Summer;200;Backstroke;25;2:02.85
-MCINTOSH;Summer;50;Breaststroke;50;35.95
-MCINTOSH;Summer;50;Breaststroke;25;34.95
-MCINTOSH;Summer;100;Breaststroke;50;1:10.39
-MCINTOSH;Summer;100;Breaststroke;25;1:11.95
-MCINTOSH;Summer;200;Breaststroke;50;2:29.56
-MCINTOSH;Summer;200;Breaststroke;25;2:29.31
-MCINTOSH;Summer;50;Butterfly;50;28.64
-MCINTOSH;Summer;50;Butterfly;25;27.23
-MCINTOSH;Summer;100;Butterfly;50;57.92
-MCINTOSH;Summer;100;Butterfly;25;1:00.16
-MCINTOSH;Summer;200;Butterfly;50;2:04.06
-MCINTOSH;Summer;200;Butterfly;25;2:03.40
-MCINTOSH;Summer;100;Medley;25;1:01.53
-MCINTOSH;Summer;200;Medley;50;2:06.89
-MCINTOSH;Summer;200;Medley;25;2:06.57
-MCINTOSH;Summer;400;Medley;50;4:25.87
-MCINTOSH;Summer;400;Medley;25;4:21.49
-MCINTOSH;Summer;50;Freestyle;50;27.29
-MCINTOSH;Summer;50;Freestyle;25;28.31
-MCINTOSH;Summer;100;Freestyle;50;53.33
-MCINTOSH;Summer;100;Freestyle;25;53.12
-MCINTOSH;Summer;200;Freestyle;50;1:53.97
-MCINTOSH;Summer;200;Freestyle;25;1:59.58
-MCINTOSH;Summer;50;Breaststroke;25;34.88
-MCINTOSH;Summer;100;Breaststroke;50;1:14.84
-MCINTOSH;Summer;100;Breaststroke;25;1:11.41
-MCINTOSH;Summer;50;Butterfly;50;28.61
-MCINTOSH;Summer;50;Butterfly;25;28.19
-MCINTOSH;Summer;100;Butterfly;50;1:02.08
-MCINTOSH;Summer;100;Butterfly;25;1:17.24
-MCKEOWN;Kaylee;50;Freestyle;50;26.37
-MCKEOWN;Kaylee;50;Freestyle;25;27.95
-MCKEOWN;Kaylee;100;Freestyle;50;54.33
-MCKEOWN;Kaylee;100;Freestyle;25;1:00.05
-MCKEOWN;Kaylee;200;Freestyle;50;1:56.88
-MCKEOWN;Kaylee;200;Freestyle;25;1:55.84
-MCKEOWN;Kaylee;400;Freestyle;50;4:15.37
-MCKEOWN;Kaylee;50;Backstroke;50;26.86
-MCKEOWN;Kaylee;50;Backstroke;25;26
-MCKEOWN;Kaylee;100;Backstroke;50;57.33
-MCKEOWN;Kaylee;100;Backstroke;25;55.49
-MCKEOWN;Kaylee;200;Backstroke;50;2:03.14
-MCKEOWN;Kaylee;200;Backstroke;25;1:58.94
-MCKEOWN;Kaylee;50;Breaststroke;25;36.29
-MCKEOWN;Kaylee;100;Breaststroke;50;1:06.86
-MCKEOWN;Kaylee;100;Breaststroke;25;1:08.06
-MCKEOWN;Kaylee;200;Breaststroke;50;2:24.18
-MCKEOWN;Kaylee;50;Butterfly;50;28.44
-MCKEOWN;Kaylee;50;Butterfly;25;30.22
-MCKEOWN;Kaylee;100;Butterfly;50;1:01.63
-MCKEOWN;Kaylee;100;Medley;25;59.14
-MCKEOWN;Kaylee;200;Medley;50;2:07.60
-MCKEOWN;Kaylee;200;Medley;25;2:03.57
-MCKEOWN;Kaylee;400;Medley;50;4:31.74
-MEILUTYTE;Ruta;50;Freestyle;50;25.04
-MEILUTYTE;Ruta;50;Freestyle;25;24.32
-MEILUTYTE;Ruta;100;Freestyle;50;54.94
-MEILUTYTE;Ruta;100;Freestyle;25;53.54
-MEILUTYTE;Ruta;200;Freestyle;50;2:00.11
-MEILUTYTE;Ruta;200;Freestyle;25;2:12.62
-MEILUTYTE;Ruta;400;Freestyle;25;4:28.49
-MEILUTYTE;Ruta;800;Freestyle;25;9:29.83
-MEILUTYTE;Ruta;1500;Freestyle;25;18:13.25
-MEILUTYTE;Ruta;50;Backstroke;50;28.78
-MEILUTYTE;Ruta;50;Backstroke;25;28.36
-MEILUTYTE;Ruta;100;Backstroke;50;1:02.86
-MEILUTYTE;Ruta;100;Backstroke;25;1:15.16
-MEILUTYTE;Ruta;200;Backstroke;25;2:10.09
-MEILUTYTE;Ruta;50;Breaststroke;50;29.16
-MEILUTYTE;Ruta;50;Breaststroke;25;28.37
-MEILUTYTE;Ruta;100;Breaststroke;50;1:04.35
-MEILUTYTE;Ruta;100;Breaststroke;25;1:02.36
-MEILUTYTE;Ruta;200;Breaststroke;50;2:25.62
-MEILUTYTE;Ruta;200;Breaststroke;25;2:22.21
-MEILUTYTE;Ruta;50;Butterfly;50;27.14
-MEILUTYTE;Ruta;50;Butterfly;25;26.62
-MEILUTYTE;Ruta;100;Medley;25;57.68
-MEILUTYTE;Ruta;200;Medley;50;2:12.32
-MEILUTYTE;Ruta;200;Medley;25;2:09.55
-MEILUTYTE;Ruta;100;Freestyle;50;56.9
-MEILUTYTE;Ruta;50;Breaststroke;25;34.96
-MEILUTYTE;Ruta;100;Breaststroke;50;1:07.80
-MENDES;Mafalda Rocha;50;Freestyle;25;47.56
-MENDES;Mafalda Rocha;100;Freestyle;25;1:48.89
-MENDES;Mafalda Rocha;200;Freestyle;25;3:55.17
-MENDES;Mafalda Rocha;100;Breaststroke;25;2:08.53
-O'CALLAGHAN;Mollie;50;Freestyle;50;24.52
-O'CALLAGHAN;Mollie;50;Freestyle;25;24.4
-O'CALLAGHAN;Mollie;100;Freestyle;50;52.08
-O'CALLAGHAN;Mollie;100;Freestyle;25;51.5
-O'CALLAGHAN;Mollie;200;Freestyle;50;1:52.85
-O'CALLAGHAN;Mollie;200;Freestyle;25;1:55.24
-O'CALLAGHAN;Mollie;400;Freestyle;50;4:07.21
-O'CALLAGHAN;Mollie;800;Freestyle;50;10:07.99
-O'CALLAGHAN;Mollie;50;Backstroke;50;27.38
-O'CALLAGHAN;Mollie;50;Backstroke;25;25.49
-O'CALLAGHAN;Mollie;100;Backstroke;50;58.42
-O'CALLAGHAN;Mollie;100;Backstroke;50;58.42
-O'CALLAGHAN;Mollie;100;Backstroke;25;55.62
-O'CALLAGHAN;Mollie;200;Backstroke;50;2:08.48
-O'CALLAGHAN;Mollie;200;Backstroke;25;2:05.45
-O'CALLAGHAN;Mollie;50;Breaststroke;25;45.46
-O'CALLAGHAN;Mollie;50;Butterfly;50;27.86
-O'CALLAGHAN;Mollie;50;Butterfly;25;35.55
-O'CALLAGHAN;Mollie;100;Butterfly;50;1:13.18
-O'CALLAGHAN;Mollie;50;Freestyle;50;25.74
-O'CALLAGHAN;Mollie;50;Freestyle;25;23.9
-O'CALLAGHAN;Mollie;100;Freestyle;50;51.95
-O'CALLAGHAN;Mollie;200;Freestyle;50;1:54.80
-O'CALLAGHAN;Mollie;200;Freestyle;25;1:52.83
-PILATO;Benedetta;50;Freestyle;50;26.21
-PILATO;Benedetta;50;Freestyle;25;25.34
-PILATO;Benedetta;100;Freestyle;50;1:02.63
-PILATO;Benedetta;100;Freestyle;25;58.82
-PILATO;Benedetta;200;Freestyle;25;2:09.87
-PILATO;Benedetta;50;Backstroke;25;33.99
-PILATO;Benedetta;200;Backstroke;25;2:41.90
-PILATO;Benedetta;50;Breaststroke;50;29.3
-PILATO;Benedetta;50;Breaststroke;25;28.81
-PILATO;Benedetta;100;Breaststroke;50;1:05.70
-PILATO;Benedetta;100;Breaststroke;25;1:03.55
-PILATO;Benedetta;200;Breaststroke;50;2:31.99
-PILATO;Benedetta;200;Breaststroke;25;2:23.09
-PILATO;Benedetta;50;Butterfly;50;27.2
-PILATO;Benedetta;50;Butterfly;25;26.62
-PILATO;Benedetta;100;Butterfly;50;1:04.93
-PILATO;Benedetta;100;Butterfly;25;1:02.24
-PILATO;Benedetta;100;Medley;25;1:03.50
-PILATO;Benedetta;200;Medley;50;2:45.25
-PILATO;Benedetta;200;Medley;25;2:22.27
-PILATO;Benedetta;50;Freestyle;25;26.22
-PILATO;Benedetta;100;Freestyle;50;1:01.38
-PILATO;Benedetta;100;Freestyle;25;59.88
-PILATO;Benedetta;200;Freestyle;25;2:18.00
-PILATO;Benedetta;50;Breaststroke;50;31.7
-PILATO;Benedetta;50;Breaststroke;25;29.18
-PILATO;Benedetta;100;Breaststroke;50;1:05.65
-PILATO;Benedetta;100;Breaststroke;25;1:03.03
-PILATO;Benedetta;50;Butterfly;25;28.53
-PILATO;Benedetta;100;Butterfly;50;1:13.31
-PILATO;Benedetta;100;Butterfly;25;1:03.57
-PITTET;Amandine;25;Freestyle;25;25.49
-PITTET;Amandine;50;Freestyle;25;43.49
-PITTET;Amandine;100;Freestyle;25;1:43.99
-PITTET;Amandine;200;Freestyle;25;4:09.42
-PITTET;Amandine;25;Backstroke;25;26.61
-PITTET;Amandine;50;Backstroke;25;53.81
-PITTET;Amandine;100;Backstroke;25;1:53.26
-PITTET;Amandine;50;Breaststroke;25;53.07
-PITTET;Amandine;100;Breaststroke;25;1:53.51
-PITTET;Amandine;50;Butterfly;25;57.71
-PITTET;Amandine;100;Medley;25;1:59.79
-SCHOENMAKER;Tatjana R;50;Freestyle;50;28.36
-SCHOENMAKER;Tatjana R;100;Freestyle;50;59.31
-SCHOENMAKER;Tatjana R;100;Freestyle;25;1:00.15
-SCHOENMAKER;Tatjana R;200;Freestyle;50;2:05.60
-SCHOENMAKER;Tatjana R;200;Freestyle;25;2:06.48
-SCHOENMAKER;Tatjana R;400;Freestyle;50;4:24.58
-SCHOENMAKER;Tatjana R;400;Freestyle;25;4:26.00
-SCHOENMAKER;Tatjana R;50;Backstroke;25;33.36
-SCHOENMAKER;Tatjana R;50;Breaststroke;50;30.41
-SCHOENMAKER;Tatjana R;50;Breaststroke;25;31.7
-SCHOENMAKER;Tatjana R;100;Breaststroke;50;1:04.82
-SCHOENMAKER;Tatjana R;100;Breaststroke;25;1:07.81
-SCHOENMAKER;Tatjana R;200;Breaststroke;50;2:18.95
-SCHOENMAKER;Tatjana R;200;Breaststroke;25;2:25.55
-SCHOENMAKER;Tatjana R;50;Butterfly;50;29.51
-SCHOENMAKER;Tatjana R;100;Medley;25;1:06.43
-SCHOENMAKER;Tatjana R;200;Medley;50;2:16.79
-SCHOENMAKER;Tatjana R;200;Medley;25;2:16.12
-SCHOENMAKER;Tatjana R;100;Freestyle;25;58.77
-SCHOENMAKER;Tatjana R;50;Breaststroke;25;32.06
-SCHOENMAKER;Tatjana R;100;Breaststroke;50;1:07.16
-SCHOENMAKER;Tatjana R;100;Breaststroke;25;1:09.51
-SJOSTROM;Sarah;50;Freestyle;50;23.61
-SJOSTROM;Sarah;50;Freestyle;25;23
-SJOSTROM;Sarah;100;Freestyle;50;51.71
-SJOSTROM;Sarah;100;Freestyle;25;50.58
-SJOSTROM;Sarah;200;Freestyle;50;1:54.08
-SJOSTROM;Sarah;200;Freestyle;25;1:50.43
-SJOSTROM;Sarah;400;Freestyle;50;4:06.04
-SJOSTROM;Sarah;400;Freestyle;25;4:02.33
-SJOSTROM;Sarah;800;Freestyle;25;8:39.37
-SJOSTROM;Sarah;50;Backstroke;50;27.8
-SJOSTROM;Sarah;50;Backstroke;25;27.31
-SJOSTROM;Sarah;100;Backstroke;50;59.98
-SJOSTROM;Sarah;100;Backstroke;25;58.83
-SJOSTROM;Sarah;200;Backstroke;50;2:21.35
-SJOSTROM;Sarah;200;Backstroke;25;2:17.86
-SJOSTROM;Sarah;50;Breaststroke;25;31.51
-SJOSTROM;Sarah;100;Breaststroke;50;1:23.70
-SJOSTROM;Sarah;100;Breaststroke;25;1:11.38
-SJOSTROM;Sarah;200;Breaststroke;25;3:05.22
-SJOSTROM;Sarah;50;Butterfly;50;24.43
-SJOSTROM;Sarah;50;Butterfly;25;24.5
-SJOSTROM;Sarah;100;Butterfly;50;55.48
-SJOSTROM;Sarah;100;Butterfly;25;54.61
-SJOSTROM;Sarah;200;Butterfly;50;2:12.22
-SJOSTROM;Sarah;200;Butterfly;25;2:04.23
-SJOSTROM;Sarah;100;Medley;25;57.1
-SJOSTROM;Sarah;200;Medley;50;2:16.56
-SJOSTROM;Sarah;200;Medley;25;2:08.17
-SJOSTROM;Sarah;400;Medley;25;5:09.92
-SJOSTROM;Sarah;50;Freestyle;25;22.94
-SJOSTROM;Sarah;50;Freestyle;25;22.94
-SJOSTROM;Sarah;100;Freestyle;50;51.91
-SJOSTROM;Sarah;100;Freestyle;25;50.67
-SJOSTROM;Sarah;200;Freestyle;50;1:53.64
-SJOSTROM;Sarah;200;Freestyle;25;1:52.63
-SJOSTROM;Sarah;50;Butterfly;50;24.83
-SJOSTROM;Sarah;50;Butterfly;25;23.96
-SJOSTROM;Sarah;100;Butterfly;50;55.03
-SJOSTROM;Sarah;100;Butterfly;25;54.65
-SMITH;Regan E;50;Freestyle;50;26.11
-SMITH;Regan E;100;Freestyle;50;55.53
-SMITH;Regan E;100;Freestyle;25;54.83
-SMITH;Regan E;200;Freestyle;50;1:58.14
-SMITH;Regan E;200;Freestyle;25;1:57.79
-SMITH;Regan E;400;Freestyle;50;4:10.33
-SMITH;Regan E;50;Backstroke;50;27.1
-SMITH;Regan E;50;Backstroke;25;27.72
-SMITH;Regan E;100;Backstroke;50;57.57
-SMITH;Regan E;100;Backstroke;25;56.33
-SMITH;Regan E;200;Backstroke;50;2:03.35
-SMITH;Regan E;200;Backstroke;25;2:02.23
-SMITH;Regan E;50;Butterfly;50;27.19
-SMITH;Regan E;50;Butterfly;25;26.12
-SMITH;Regan E;100;Butterfly;50;56.6
-SMITH;Regan E;100;Butterfly;25;57.14
-SMITH;Regan E;200;Butterfly;50;2:05.30
-SMITH;Regan E;100;Medley;25;1:03.17
-SMITH;Regan E;200;Medley;50;2:10.40
-SMITH;Regan E;200;Freestyle;50;1:59.87
-TITMUS;Ariarne;50;Freestyle;50;26.13
-TITMUS;Ariarne;100;Freestyle;50;53.68
-TITMUS;Ariarne;100;Freestyle;25;53.32
-TITMUS;Ariarne;200;Freestyle;50;1:53.01
-TITMUS;Ariarne;200;Freestyle;25;1:51.38
-TITMUS;Ariarne;400;Freestyle;50;3:55.38
-TITMUS;Ariarne;400;Freestyle;25;3:53.92
-TITMUS;Ariarne;800;Freestyle;50;8:13.59
-TITMUS;Ariarne;800;Freestyle;50;8:13.59
-TITMUS;Ariarne;800;Freestyle;25;8:13.41
-TITMUS;Ariarne;1500;Freestyle;50;16:09.87
-TITMUS;Ariarne;200;Breaststroke;50;2:53.38
-TITMUS;Ariarne;100;Butterfly;50;1:06.58
-TITMUS;Ariarne;200;Butterfly;50;2:17.37
-TITMUS;Ariarne;200;Medley;50;2:33.03
-TITMUS;Ariarne;400;Medley;50;4:46.61
-TITMUS;Ariarne;50;Freestyle;50;27.19
-TITMUS;Ariarne;50;Freestyle;25;24.71
-TITMUS;Ariarne;100;Freestyle;50;53.96
-TITMUS;Ariarne;100;Freestyle;25;52.92
-TITMUS;Ariarne;200;Freestyle;50;1:52.41
-TITMUS;Ariarne;200;Freestyle;25;1:53.53
-TITMUS;Ariarne;50;Butterfly;50;30.49
-WELLBROCK;Sarah;50;Freestyle;50;27.22
-WELLBROCK;Sarah;50;Freestyle;25;26.33
-WELLBROCK;Sarah;100;Freestyle;50;57.07
-WELLBROCK;Sarah;100;Freestyle;25;55.42
-WELLBROCK;Sarah;200;Freestyle;50;1:58.56
-WELLBROCK;Sarah;200;Freestyle;25;1:56.01
-WELLBROCK;Sarah;400;Freestyle;50;4:03.96
-WELLBROCK;Sarah;400;Freestyle;25;3:59.12
-WELLBROCK;Sarah;800;Freestyle;50;8:16.43
-WELLBROCK;Sarah;800;Freestyle;25;8:08.02
-WELLBROCK;Sarah;1500;Freestyle;50;15:42.91
-WELLBROCK;Sarah;1500;Freestyle;25;15:18.01
-WELLBROCK;Sarah;5000;Freestyle;50;1:01:09.10
-WELLBROCK;Sarah;50;Backstroke;50;31.75
-WELLBROCK;Sarah;50;Backstroke;25;30.02
-WELLBROCK;Sarah;100;Backstroke;50;1:07.68
-WELLBROCK;Sarah;100;Backstroke;25;1:04.17
-WELLBROCK;Sarah;200;Backstroke;50;2:21.82
-WELLBROCK;Sarah;200;Backstroke;25;2:14.29
-WELLBROCK;Sarah;100;Breaststroke;50;1:29.16
-WELLBROCK;Sarah;100;Breaststroke;25;1:24.81
-WELLBROCK;Sarah;50;Butterfly;50;29.63
-WELLBROCK;Sarah;100;Butterfly;50;1:04.09
-WELLBROCK;Sarah;100;Butterfly;25;1:14.32
-WELLBROCK;Sarah;200;Butterfly;50;2:27.65
-WELLBROCK;Sarah;200;Butterfly;25;2:32.00
-WELLBROCK;Sarah;100;Medley;25;1:04.84
-WELLBROCK;Sarah;200;Medley;50;2:21.19
-WELLBROCK;Sarah;200;Medley;25;2:16.96
-WELLBROCK;Sarah;400;Medley;50;4:53.28
-WELLBROCK;Sarah;400;Medley;25;4:43.92
-WELLBROCK;Sarah;800;Medley;50;11:22.36
-WELLBROCK;Sarah;50;Freestyle;25;24.9
-WELLBROCK;Sarah;100;Freestyle;50;55.45
-WELLBROCK;Sarah;100;Freestyle;25;55.2
-WELLBROCK;Sarah;200;Freestyle;50;1:57.18
-WELLBROCK;Sarah;200;Freestyle;25;1:58.91
-WELLBROCK;Sarah;50;Butterfly;25;33.19
-WELLBROCK;Sarah;100;Butterfly;50;1:13.72
-ZHANG;Yufei;50;Freestyle;50;24.15
-ZHANG;Yufei;50;Freestyle;25;23.76
-ZHANG;Yufei;100;Freestyle;50;53.34
-ZHANG;Yufei;100;Freestyle;25;53.24
-ZHANG;Yufei;200;Freestyle;50;1:57.36
-ZHANG;Yufei;200;Freestyle;25;1:55.26
-ZHANG;Yufei;400;Freestyle;25;3:59.51
-ZHANG;Yufei;50;Butterfly;50;25.05
-ZHANG;Yufei;50;Butterfly;25;24.71
-ZHANG;Yufei;100;Butterfly;50;55.64
-ZHANG;Yufei;100;Butterfly;25;55.87
-ZHANG;Yufei;200;Butterfly;50;2:03.86
-ZHANG;Yufei;200;Butterfly;25;2:03.01
-ZHANG;Yufei;100;Medley;25;1:08.80
-ZHANG;Yufei;400;Medley;25;4:46.30
-ZHANG;Yufei;50;Freestyle;25;23.12
-ZHANG;Yufei;100;Freestyle;50;52.84
-ZHANG;Yufei;100;Freestyle;25;51.91
-ZHANG;Yufei;200;Freestyle;50;1:55.66
-ZHANG;Yufei;100;Butterfly;50;55.39
-ZHANG;Yufei;100;Butterfly;25;54.93
-ZHAO;Jing;50;Freestyle;50;25.9
-ZHAO;Jing;200;Freestyle;25;2:02.86
-ZHAO;Jing;50;Backstroke;50;27.06
-ZHAO;Jing;50;Backstroke;25;25.82
-ZHAO;Jing;100;Backstroke;50;58.98
-ZHAO;Jing;100;Backstroke;25;56.18
-ZHAO;Jing;200;Backstroke;50;2:07.87
-ZHAO;Jing;200;Backstroke;25;2:07.71
-ZHAO;Jing;100;Medley;25;58.4
-ZHAO;Jing;200;Medley;50;2:16.00
-ZHAO;Jing;200;Medley;25;2:17.82
-ZHAO;Jing;400;Medley;50;4:56.41
-ZHAO;Jing;100;Breaststroke;25;1:04.72
+﻿surname,firstname,distance,technique,track length,time
+MCEVOY,Cameron,50,Freistil,50,21.06
+MCEVOY,Cameron,50,Freistil,25,20.75
+MCEVOY,Cameron,100,Freistil,50,47.04
+MCEVOY,Cameron,100,Freistil,25,46.19
+MCEVOY,Cameron,200,Freistil,50,1:45.46
+MCEVOY,Cameron,200,Freistil,25,1:40.80
+MCEVOY,Cameron,400,Freistil,50,3:53.74
+MCEVOY,Cameron,400,Freistil,25,3:41.24
+MCEVOY,Cameron,50,Rücken,25,24.05
+MCEVOY,Cameron,100,Rücken,50,54.92
+MCEVOY,Cameron,100,Rücken,25,52.12
+MCEVOY,Cameron,200,Rücken,50,2:05.07
+MCEVOY,Cameron,200,Rücken,25,2:00.36
+MCEVOY,Cameron,50,Schmetterling,50,23.07
+MCEVOY,Cameron,50,Schmetterling,25,23.66
+MCEVOY,Cameron,100,Schmetterling,50,53.84
+MCEVOY,Cameron,100,Schmetterling,25,1:00.49
+MCEVOY,Cameron,200,Schmetterling,50,2:37.02
+MCEVOY,Cameron,50,Freistil,50,21.75
+MCEVOY,Cameron,50,Freistil,25,20.74
+MCEVOY,Cameron,100,Freistil,50,46.6
+MCEVOY,Cameron,100,Freistil,25,45.78
+MCEVOY,Cameron,200,Freistil,50,1:47.89
+MCEVOY,Cameron,200,Freistil,25,1:43.74
+MCEVOY,Cameron,50,Schmetterling,25,24.63
+MCEVOY,Cameron,100,Schmetterling,25,53.02
+LEDECKY,Kathleen,50,Freistil,50,25.45
+LEDECKY,Kathleen,100,Freistil,50,53.75
+LEDECKY,Kathleen,200,Freistil,50,1:53.73
+LEDECKY,Kathleen,200,Freistil,25,1:52.10
+LEDECKY,Kathleen,400,Freistil,50,3:56.46
+LEDECKY,Kathleen,400,Freistil,25,3:52.88
+LEDECKY,Kathleen,800,Freistil,50,8:04.79
+LEDECKY,Kathleen,800,Freistil,25,7:57.42
+LEDECKY,Kathleen,1500,Freistil,50,15:20.48
+LEDECKY,Kathleen,1500,Freistil,25,15:08.24
+LEDECKY,Kathleen,100,Rücken,50,1:04.58
+LEDECKY,Kathleen,100,Schmetterling,50,1:02.01
+LEDECKY,Kathleen,200,Schmetterling,50,2:13.77
+LEDECKY,Kathleen,200,Schmetterling,25,2:13.08
+LEDECKY,Kathleen,200,Lagen,50,2:14.36
+LEDECKY,Kathleen,400,Lagen,50,4:35.77
+LEDECKY,Kathleen,400,Lagen,25,4:27.18
+LEDECKY,Kathleen,100,Freistil,50,52.64
+LEDECKY,Kathleen,100,Freistil,25,54
+LEDECKY,Kathleen,200,Freistil,50,1:53.67
+MCKEOWN,Kaylee,50,Freistil,50,26.37
+MCKEOWN,Kaylee,50,Freistil,25,27.95
+MCKEOWN,Kaylee,100,Freistil,50,54.33
+MCKEOWN,Kaylee,100,Freistil,25,1:00.05
+MCKEOWN,Kaylee,200,Freistil,50,1:56.88
+MCKEOWN,Kaylee,200,Freistil,25,1:55.84
+MCKEOWN,Kaylee,400,Freistil,50,4:15.37
+MCKEOWN,Kaylee,50,Rücken,50,26.86
+MCKEOWN,Kaylee,50,Rücken,25,26
+MCKEOWN,Kaylee,100,Rücken,50,57.33
+MCKEOWN,Kaylee,100,Rücken,25,55.49
+MCKEOWN,Kaylee,200,Rücken,50,2:03.14
+MCKEOWN,Kaylee,200,Rücken,25,1:58.94
+MCKEOWN,Kaylee,50,Brust,25,36.29
+MCKEOWN,Kaylee,100,Brust,50,1:06.86
+MCKEOWN,Kaylee,100,Brust,25,1:08.06
+MCKEOWN,Kaylee,200,Brust,50,2:24.18
+MCKEOWN,Kaylee,50,Schmetterling,50,28.44
+MCKEOWN,Kaylee,50,Schmetterling,25,30.22
+MCKEOWN,Kaylee,100,Schmetterling,50,1:01.63
+MCKEOWN,Kaylee,100,Lagen,25,59.14
+MCKEOWN,Kaylee,200,Lagen,50,2:07.60
+MCKEOWN,Kaylee,200,Lagen,25,2:03.57
+MCKEOWN,Kaylee,400,Lagen,50,4:31.74
+ZHAO,Jing,50,Freistil,50,25.9
+ZHAO,Jing,200,Freistil,25,2:02.86
+ZHAO,Jing,50,Rücken,50,27.06
+ZHAO,Jing,50,Rücken,25,25.82
+ZHAO,Jing,100,Rücken,50,58.98
+ZHAO,Jing,100,Rücken,25,56.18
+ZHAO,Jing,200,Rücken,50,2:07.87
+ZHAO,Jing,200,Rücken,25,2:07.71
+ZHAO,Jing,100,Lagen,25,58.4
+ZHAO,Jing,200,Lagen,50,2:16.00
+ZHAO,Jing,200,Lagen,25,2:17.82
+ZHAO,Jing,400,Lagen,50,4:56.41
+ZHAO,Jing,100,Brust,25,1:04.72
+ARMSTRONG,Hunter,50,Freistil,50,22
+ARMSTRONG,Hunter,50,Freistil,25,21.45
+ARMSTRONG,Hunter,100,Freistil,50,48.25
+ARMSTRONG,Hunter,100,Freistil,25,47.11
+ARMSTRONG,Hunter,200,Freistil,50,1:53.26
+ARMSTRONG,Hunter,50,Rücken,50,23.71
+ARMSTRONG,Hunter,50,Rücken,25,23.05
+ARMSTRONG,Hunter,100,Rücken,50,51.98
+ARMSTRONG,Hunter,100,Rücken,25,50.68
+ARMSTRONG,Hunter,200,Rücken,50,2:03.60
+ARMSTRONG,Hunter,50,Schmetterling,50,24.43
+ARMSTRONG,Hunter,50,Freistil,25,20.94
+ARMSTRONG,Hunter,100,Freistil,50,49.32
+CECCON,Thomas,50,Freistil,50,22.33
+CECCON,Thomas,50,Freistil,25,21.42
+CECCON,Thomas,100,Freistil,50,47.71
+CECCON,Thomas,100,Freistil,25,45.72
+CECCON,Thomas,200,Freistil,50,1:46.52
+CECCON,Thomas,200,Freistil,25,1:43.45
+CECCON,Thomas,400,Freistil,50,4:04.55
+CECCON,Thomas,400,Freistil,25,3:53.52
+CECCON,Thomas,800,Freistil,50,8:58.76
+CECCON,Thomas,800,Freistil,25,8:25.51
+CECCON,Thomas,1500,Freistil,50,17:08.04
+CECCON,Thomas,1500,Freistil,25,15:49.26
+CECCON,Thomas,50,Rücken,50,24.4
+CECCON,Thomas,50,Rücken,25,23.22
+CECCON,Thomas,100,Rücken,50,51.6
+CECCON,Thomas,100,Rücken,25,49.59
+CECCON,Thomas,200,Rücken,50,1:56.49
+CECCON,Thomas,200,Rücken,25,1:53.24
+CECCON,Thomas,50,Brust,50,28.13
+CECCON,Thomas,50,Brust,25,27.16
+CECCON,Thomas,100,Brust,50,1:02.51
+CECCON,Thomas,100,Brust,25,59.13
+CECCON,Thomas,200,Brust,50,2:20.88
+CECCON,Thomas,200,Brust,25,2:12.69
+CECCON,Thomas,50,Schmetterling,50,22.68
+CECCON,Thomas,50,Schmetterling,25,22.19
+CECCON,Thomas,100,Schmetterling,50,51.38
+CECCON,Thomas,100,Schmetterling,25,50.56
+CECCON,Thomas,200,Schmetterling,50,1:59.53
+CECCON,Thomas,200,Schmetterling,25,1:55.26
+CECCON,Thomas,100,Lagen,25,50.97
+CECCON,Thomas,200,Lagen,50,1:59.89
+CECCON,Thomas,200,Lagen,25,1:51.90
+CECCON,Thomas,400,Lagen,50,4:29.63
+CECCON,Thomas,400,Lagen,25,4:14.90
+CECCON,Thomas,50,Freistil,25,20.67
+CECCON,Thomas,100,Freistil,50,47.03
+CECCON,Thomas,100,Freistil,25,45.13
+CECCON,Thomas,200,Freistil,50,1:48.97
+CECCON,Thomas,200,Freistil,25,1:42.61
+CECCON,Thomas,50,Brust,25,26.87
+CECCON,Thomas,100,Brust,50,1:03.42
+CECCON,Thomas,50,Schmetterling,25,21.8
+CECCON,Thomas,100,Schmetterling,50,52.22
+CECCON,Thomas,100,Schmetterling,25,54.54
+CHALMERS,Kyle,50,Freistil,50,22.07
+CHALMERS,Kyle,50,Freistil,25,20.68
+CHALMERS,Kyle,100,Freistil,50,47.08
+CHALMERS,Kyle,100,Freistil,50,47.08
+CHALMERS,Kyle,100,Freistil,25,44.84
+CHALMERS,Kyle,200,Freistil,50,1:45.48
+CHALMERS,Kyle,200,Freistil,25,1:40.82
+CHALMERS,Kyle,400,Freistil,50,4:01.71
+CHALMERS,Kyle,800,Freistil,50,8:23.03
+CHALMERS,Kyle,50,Rücken,50,27.55
+CHALMERS,Kyle,50,Rücken,25,25.25
+CHALMERS,Kyle,100,Rücken,50,58.19
+CHALMERS,Kyle,50,Schmetterling,50,23.21
+CHALMERS,Kyle,50,Schmetterling,25,22.24
+CHALMERS,Kyle,100,Schmetterling,50,51.61
+CHALMERS,Kyle,100,Schmetterling,25,52.49
+CHALMERS,Kyle,200,Schmetterling,50,2:04.74
+CHALMERS,Kyle,200,Lagen,50,2:13.90
+CHALMERS,Kyle,50,Freistil,50,21.96
+CHALMERS,Kyle,50,Freistil,25,20.34
+CHALMERS,Kyle,100,Freistil,50,46.44
+CHALMERS,Kyle,100,Freistil,25,44.63
+CHALMERS,Kyle,200,Freistil,50,1:45.19
+CHALMERS,Kyle,200,Freistil,25,1:40.35
+CHALMERS,Kyle,100,Schmetterling,50,52.36
+CHALMERS,Kyle,100,Schmetterling,25,49.81
+DRESSEL,Caeleb,50,Freistil,50,21.04
+DRESSEL,Caeleb,50,Freistil,50,21.04
+DRESSEL,Caeleb,50,Freistil,25,20.16
+DRESSEL,Caeleb,100,Freistil,50,46.96
+DRESSEL,Caeleb,100,Freistil,25,45.08
+DRESSEL,Caeleb,200,Freistil,50,1:46.63
+DRESSEL,Caeleb,100,Rücken,50,56.69
+DRESSEL,Caeleb,50,Brust,50,27.89
+DRESSEL,Caeleb,50,Brust,25,26.01
+DRESSEL,Caeleb,100,Brust,50,1:02.26
+DRESSEL,Caeleb,50,Schmetterling,50,22.35
+DRESSEL,Caeleb,50,Schmetterling,25,22.04
+DRESSEL,Caeleb,100,Schmetterling,50,49.45
+DRESSEL,Caeleb,100,Schmetterling,25,47.78
+DRESSEL,Caeleb,200,Schmetterling,50,1:58.45
+DRESSEL,Caeleb,100,Lagen,25,49.28
+DRESSEL,Caeleb,200,Lagen,50,1:59.97
+DRESSEL,Caeleb,200,Lagen,25,1:51.14
+DRESSEL,Caeleb,100,Freistil,50,47.74
+DRESSEL,Caeleb,100,Freistil,25,44.91
+DRESSEL,Caeleb,200,Freistil,50,1:48.27
+DRESSEL,Caeleb,100,Brust,50,1:07.89
+DRESSEL,Caeleb,100,Brust,25,58.11
+DRESSEL,Caeleb,50,Schmetterling,25,21.7
+DRESSEL,Caeleb,100,Schmetterling,50,49.03
+DRESSEL,Caeleb,100,Schmetterling,25,48.18
+GOVOROV,Andrii,50,Freistil,50,21.46
+GOVOROV,Andrii,50,Freistil,25,20.96
+GOVOROV,Andrii,100,Freistil,50,49.12
+GOVOROV,Andrii,100,Freistil,25,47.58
+GOVOROV,Andrii,200,Freistil,50,2:05.34
+GOVOROV,Andrii,200,Freistil,25,1:56.81
+GOVOROV,Andrii,50,Rücken,50,29.8
+GOVOROV,Andrii,50,Brust,25,28.73
+GOVOROV,Andrii,50,Schmetterling,50,22.27
+GOVOROV,Andrii,50,Schmetterling,25,22.29
+GOVOROV,Andrii,100,Schmetterling,50,52.55
+GOVOROV,Andrii,100,Schmetterling,25,51.85
+GOVOROV,Andrii,100,Lagen,25,56.07
+GOVOROV,Andrii,50,Freistil,50,22.2
+GOVOROV,Andrii,50,Freistil,25,21.22
+GOVOROV,Andrii,100,Freistil,50,49.13
+GOVOROV,Andrii,100,Freistil,25,47.92
+GOVOROV,Andrii,50,Schmetterling,50,23.57
+GOVOROV,Andrii,50,Schmetterling,25,22.76
+GOVOROV,Andrii,100,Schmetterling,25,54.5
+GÜLEÇ,Hamza Niyazi,200,Freistil,50,2:08.52
+GÜLEÇ,Hamza Niyazi,400,Freistil,50,4:31.77
+GÜLEÇ,Hamza Niyazi,400,Freistil,25,4:19.51
+GÜLEÇ,Hamza Niyazi,800,Freistil,50,9:21.62
+GÜLEÇ,Hamza Niyazi,800,Freistil,25,8:52.76
+GÜLEÇ,Hamza Niyazi,1500,Freistil,25,17:03.50
+GÜLEÇ,Hamza Niyazi,100,Schmetterling,50,1:05.95
+GÜLEÇ,Hamza Niyazi,200,Schmetterling,50,2:23.26
+GÜLEÇ,Hamza Niyazi,200,Schmetterling,25,2:13.05
+GÜLEÇ,Hamza Niyazi,200,Lagen,25,2:22.35
+HONDA,Tomoru,200,Freistil,50,1:49.96
+HONDA,Tomoru,400,Freistil,50,4:00.67
+HONDA,Tomoru,400,Freistil,25,3:51.76
+HONDA,Tomoru,50,Schmetterling,50,24.49
+HONDA,Tomoru,100,Schmetterling,50,51.89
+HONDA,Tomoru,200,Schmetterling,50,1:53.61
+HONDA,Tomoru,200,Schmetterling,25,1:46.85
+HONDA,Tomoru,200,Lagen,50,2:08.43
+HONDA,Tomoru,200,Lagen,25,1:54.73
+HONDA,Tomoru,400,Lagen,50,4:12.20
+HONDA,Tomoru,400,Lagen,25,4:04.89
+HONDA,Tomoru,100,Freistil,50,51.45
+HONDA,Tomoru,100,Freistil,25,48.27
+HONDA,Tomoru,100,Schmetterling,50,54.05
+KOLESNIKOV,Kliment,50,Freistil,50,21.69
+KOLESNIKOV,Kliment,50,Freistil,25,20.88
+KOLESNIKOV,Kliment,100,Freistil,50,47.11
+KOLESNIKOV,Kliment,100,Freistil,25,45.58
+KOLESNIKOV,Kliment,200,Freistil,50,1:48.99
+KOLESNIKOV,Kliment,200,Freistil,25,1:41.75
+KOLESNIKOV,Kliment,50,Rücken,50,23.55
+KOLESNIKOV,Kliment,50,Rücken,25,22.11
+KOLESNIKOV,Kliment,100,Rücken,50,51.82
+KOLESNIKOV,Kliment,100,Rücken,25,48.58
+KOLESNIKOV,Kliment,200,Rücken,50,1:55.14
+KOLESNIKOV,Kliment,200,Rücken,25,1:48.02
+KOLESNIKOV,Kliment,50,Brust,50,29.22
+KOLESNIKOV,Kliment,50,Schmetterling,50,24.19
+KOLESNIKOV,Kliment,100,Lagen,25,50.63
+KOLESNIKOV,Kliment,200,Lagen,50,2:00.27
+KOLESNIKOV,Kliment,200,Lagen,25,1:53.36
+KOLESNIKOV,Kliment,400,Lagen,50,4:51.10
+KOLESNIKOV,Kliment,50,Freistil,25,20.45
+KOLESNIKOV,Kliment,100,Freistil,50,47.03
+KOLESNIKOV,Kliment,100,Freistil,25,45.25
+KOLESNIKOV,Kliment,200,Freistil,50,1:55.12
+KOLESNIKOV,Kliment,200,Freistil,25,1:44.89
+LARKIN,Mitchell,50,Freistil,50,23.56
+LARKIN,Mitchell,50,Freistil,25,32.62
+LARKIN,Mitchell,100,Freistil,50,50.28
+LARKIN,Mitchell,100,Freistil,25,48.25
+LARKIN,Mitchell,200,Freistil,50,1:51.04
+LARKIN,Mitchell,200,Freistil,25,1:49.33
+LARKIN,Mitchell,400,Freistil,50,3:56.37
+LARKIN,Mitchell,400,Freistil,25,3:54.72
+LARKIN,Mitchell,800,Freistil,50,8:34.63
+LARKIN,Mitchell,800,Freistil,25,8:23.77
+LARKIN,Mitchell,1500,Freistil,50,16:08.47
+LARKIN,Mitchell,1500,Freistil,25,16:02.04
+LARKIN,Mitchell,50,Rücken,50,24.62
+LARKIN,Mitchell,50,Rücken,25,22.91
+LARKIN,Mitchell,100,Rücken,50,52.11
+LARKIN,Mitchell,100,Rücken,25,49.03
+LARKIN,Mitchell,200,Rücken,50,1:53.17
+LARKIN,Mitchell,200,Rücken,25,1:45.63
+LARKIN,Mitchell,50,Brust,50,29.77
+LARKIN,Mitchell,50,Brust,25,31.71
+LARKIN,Mitchell,100,Brust,50,1:14.55
+LARKIN,Mitchell,100,Brust,25,1:08.51
+LARKIN,Mitchell,200,Brust,50,2:27.37
+LARKIN,Mitchell,200,Brust,25,2:23.15
+LARKIN,Mitchell,50,Schmetterling,50,24.26
+LARKIN,Mitchell,50,Schmetterling,25,25.22
+LARKIN,Mitchell,100,Schmetterling,50,52.78
+LARKIN,Mitchell,100,Lagen,25,52.71
+LARKIN,Mitchell,200,Lagen,50,1:56.21
+LARKIN,Mitchell,200,Lagen,25,1:52.21
+LARKIN,Mitchell,400,Lagen,50,4:14.62
+LARKIN,Mitchell,400,Lagen,25,4:06.26
+LARKIN,Mitchell,50,Freistil,25,24.05
+LARKIN,Mitchell,100,Freistil,50,49.33
+LARKIN,Mitchell,100,Freistil,25,47.24
+LARKIN,Mitchell,200,Freistil,50,1:51.14
+LARKIN,Mitchell,200,Freistil,25,1:43.02
+LARKIN,Mitchell,50,Brust,25,31.79
+LARKIN,Mitchell,100,Brust,50,1:06.16
+LARKIN,Mitchell,100,Brust,25,1:08.74
+MARCHAND,Leon,50,Freistil,50,26.64
+MARCHAND,Leon,50,Freistil,25,23.39
+MARCHAND,Leon,100,Freistil,50,51.27
+MARCHAND,Leon,100,Freistil,25,56.12
+MARCHAND,Leon,200,Freistil,50,1:46.44
+MARCHAND,Leon,200,Freistil,25,1:51.21
+MARCHAND,Leon,400,Freistil,50,4:04.65
+MARCHAND,Leon,400,Freistil,25,4:30.30
+MARCHAND,Leon,800,Freistil,50,10:04.12
+MARCHAND,Leon,800,Freistil,25,9:36.56
+MARCHAND,Leon,1500,Freistil,50,19:47.98
+MARCHAND,Leon,50,Rücken,50,27.61
+MARCHAND,Leon,50,Rücken,25,25.35
+MARCHAND,Leon,100,Rücken,50,58.01
+MARCHAND,Leon,100,Rücken,25,1:06.43
+MARCHAND,Leon,200,Rücken,50,2:11.49
+MARCHAND,Leon,200,Rücken,25,2:01.36
+MARCHAND,Leon,50,Brust,50,28.74
+MARCHAND,Leon,50,Brust,25,28.79
+MARCHAND,Leon,100,Brust,50,1:02.02
+MARCHAND,Leon,100,Brust,25,1:20.84
+MARCHAND,Leon,200,Brust,50,2:06.59
+MARCHAND,Leon,200,Brust,25,2:13.14
+MARCHAND,Leon,50,Schmetterling,50,24.51
+MARCHAND,Leon,50,Schmetterling,25,24.28
+MARCHAND,Leon,100,Schmetterling,50,52.44
+MARCHAND,Leon,100,Schmetterling,25,53.97
+MARCHAND,Leon,200,Schmetterling,50,1:52.43
+MARCHAND,Leon,200,Schmetterling,25,1:58.49
+MARCHAND,Leon,100,Lagen,25,54.03
+MARCHAND,Leon,200,Lagen,50,1:54.82
+MARCHAND,Leon,200,Lagen,25,1:58.07
+MARCHAND,Leon,400,Lagen,50,4:02.50
+MARCHAND,Leon,400,Lagen,25,4:07.55
+MARCHAND,Leon,50,Freistil,25,22.56
+MARCHAND,Leon,100,Freistil,50,49.15
+MARCHAND,Leon,100,Freistil,25,1:09.60
+MARCHAND,Leon,200,Freistil,50,1:44.89
+MARCHAND,Leon,200,Freistil,25,1:48.19
+MARCHAND,Leon,100,Brust,50,59
+MARCHAND,Leon,50,Schmetterling,25,24.16
+MARCHAND,Leon,100,Schmetterling,50,51.5
+MARCHAND,Leon,100,Schmetterling,25,57.76
+MILAK,Kristof,50,Freistil,50,22.06
+MILAK,Kristof,50,Freistil,25,21.03
+MILAK,Kristof,100,Freistil,50,47.47
+MILAK,Kristof,100,Freistil,25,46.72
+MILAK,Kristof,200,Freistil,50,1:45.74
+MILAK,Kristof,200,Freistil,25,1:42.61
+MILAK,Kristof,400,Freistil,50,3:48.08
+MILAK,Kristof,400,Freistil,25,3:39.37
+MILAK,Kristof,800,Freistil,50,8:05.33
+MILAK,Kristof,800,Freistil,25,8:05.42
+MILAK,Kristof,1500,Freistil,50,16:59.83
+MILAK,Kristof,1500,Freistil,25,15:10.39
+MILAK,Kristof,50,Rücken,50,25.23
+MILAK,Kristof,50,Rücken,25,23.08
+MILAK,Kristof,100,Rücken,50,54.67
+MILAK,Kristof,100,Rücken,25,52.09
+MILAK,Kristof,200,Rücken,50,1:59.75
+MILAK,Kristof,200,Rücken,25,2:09.51
+MILAK,Kristof,50,Brust,25,47.77
+MILAK,Kristof,100,Brust,50,1:42.97
+MILAK,Kristof,100,Brust,25,1:36.97
+MILAK,Kristof,50,Schmetterling,50,23.27
+MILAK,Kristof,50,Schmetterling,25,22.42
+MILAK,Kristof,100,Schmetterling,50,49.68
+MILAK,Kristof,100,Schmetterling,25,49.56
+MILAK,Kristof,200,Schmetterling,50,1:50.34
+MILAK,Kristof,200,Schmetterling,25,1:49.86
+MILAK,Kristof,100,Lagen,25,1:06.54
+MILAK,Kristof,200,Lagen,50,2:28.34
+MILAK,Kristof,200,Lagen,25,2:10.37
+MILAK,Kristof,50,Freistil,25,22.09
+MILAK,Kristof,100,Freistil,50,46.89
+MILAK,Kristof,100,Freistil,25,46.99
+MILAK,Kristof,200,Freistil,50,1:44.42
+MILAK,Kristof,50,Schmetterling,25,23.01
+MILAK,Kristof,100,Schmetterling,50,50.83
+MILAK,Kristof,100,Schmetterling,25,49.32
+MURPHY,Ryan F,50,Freistil,50,23.05
+MURPHY,Ryan F,100,Freistil,50,48.88
+MURPHY,Ryan F,200,Freistil,50,1:49.70
+MURPHY,Ryan F,50,Rücken,50,24.24
+MURPHY,Ryan F,50,Rücken,25,22.53
+MURPHY,Ryan F,100,Rücken,50,51.85
+MURPHY,Ryan F,100,Rücken,25,48.5
+MURPHY,Ryan F,200,Rücken,50,1:53.57
+MURPHY,Ryan F,200,Rücken,25,1:47.34
+MURPHY,Ryan F,50,Schmetterling,50,25.5
+MURPHY,Ryan F,50,Schmetterling,25,22.65
+MURPHY,Ryan F,100,Schmetterling,50,51.35
+MURPHY,Ryan F,200,Schmetterling,50,2:13.01
+MURPHY,Ryan F,100,Lagen,25,51.88
+MURPHY,Ryan F,200,Lagen,50,2:03.88
+MURPHY,Ryan F,400,Lagen,50,4:36.45
+MURPHY,Ryan F,100,Freistil,50,52.07
+MURPHY,Ryan F,100,Freistil,25,47.67
+MURPHY,Ryan F,200,Freistil,50,1:52.63
+MURPHY,Ryan F,100,Schmetterling,50,59.2
+PEATY,Adam,50,Freistil,50,24.49
+PEATY,Adam,100,Freistil,50,57.58
+PEATY,Adam,100,Freistil,25,53.01
+PEATY,Adam,200,Freistil,50,1:55.14
+PEATY,Adam,200,Freistil,25,1:54.06
+PEATY,Adam,400,Freistil,25,3:55.25
+PEATY,Adam,50,Brust,50,25.95
+PEATY,Adam,50,Brust,25,25.41
+PEATY,Adam,100,Brust,50,56.88
+PEATY,Adam,100,Brust,25,55.41
+PEATY,Adam,200,Brust,50,2:08.34
+PEATY,Adam,200,Brust,25,2:02.89
+PEATY,Adam,100,Lagen,25,57.92
+PEATY,Adam,200,Lagen,50,2:07.40
+PEATY,Adam,200,Lagen,25,2:03.37
+PEATY,Adam,100,Freistil,50,53.3
+PEATY,Adam,50,Brust,25,25.71
+PEATY,Adam,100,Brust,50,56.53
+PEATY,Adam,100,Brust,25,54.84
+POPOVICI,David,50,Freistil,50,22.16
+POPOVICI,David,50,Freistil,25,21.83
+POPOVICI,David,100,Freistil,50,46.86
+POPOVICI,David,100,Freistil,25,45.64
+POPOVICI,David,200,Freistil,50,1:42.97
+POPOVICI,David,200,Freistil,25,1:40.79
+POPOVICI,David,400,Freistil,50,3:47.99
+POPOVICI,David,400,Freistil,25,3:43.00
+POPOVICI,David,50,Rücken,50,27.13
+POPOVICI,David,100,Rücken,50,57.61
+POPOVICI,David,100,Rücken,25,57.06
+POPOVICI,David,200,Rücken,50,2:08.43
+POPOVICI,David,50,Schmetterling,50,24.38
+POPOVICI,David,50,Schmetterling,25,25.7
+POPOVICI,David,100,Schmetterling,50,58.18
+POPOVICI,David,100,Schmetterling,25,52.67
+POPOVICI,David,100,Lagen,25,53.47
+POPOVICI,David,200,Lagen,50,2:02.17
+POPOVICI,David,200,Lagen,25,2:08.85
+POPOVICI,David,400,Lagen,50,4:28.86
+POPOVICI,David,400,Lagen,25,4:33.32
+POPOVICI,David,100,Freistil,50,48
+POPOVICI,David,200,Freistil,50,1:45.72
+PRIGODA,Kirill,50,Freistil,50,22.7
+PRIGODA,Kirill,50,Freistil,25,21.63
+PRIGODA,Kirill,100,Freistil,50,51.16
+PRIGODA,Kirill,100,Freistil,25,47.72
+PRIGODA,Kirill,200,Freistil,50,1:54.63
+PRIGODA,Kirill,200,Freistil,25,1:48.22
+PRIGODA,Kirill,400,Freistil,50,4:08.41
+PRIGODA,Kirill,400,Freistil,25,4:03.10
+PRIGODA,Kirill,50,Rücken,50,34.2
+PRIGODA,Kirill,50,Rücken,25,30.47
+PRIGODA,Kirill,100,Rücken,50,1:07.67
+PRIGODA,Kirill,100,Rücken,25,1:21.33
+PRIGODA,Kirill,200,Rücken,50,2:34.49
+PRIGODA,Kirill,200,Rücken,25,2:02.05
+PRIGODA,Kirill,50,Brust,50,26.72
+PRIGODA,Kirill,50,Brust,25,25.49
+PRIGODA,Kirill,100,Brust,50,58.92
+PRIGODA,Kirill,100,Brust,25,56.02
+PRIGODA,Kirill,200,Brust,50,2:07.25
+PRIGODA,Kirill,200,Brust,25,2:00.16
+PRIGODA,Kirill,50,Schmetterling,50,24.54
+PRIGODA,Kirill,50,Schmetterling,25,23.66
+PRIGODA,Kirill,100,Schmetterling,25,1:09.96
+PRIGODA,Kirill,200,Schmetterling,25,2:00.67
+PRIGODA,Kirill,100,Lagen,25,53.96
+PRIGODA,Kirill,200,Lagen,50,1:59.65
+PRIGODA,Kirill,200,Lagen,25,1:53.47
+PRIGODA,Kirill,400,Lagen,50,4:27.00
+PRIGODA,Kirill,400,Lagen,25,4:19.80
+PRIGODA,Kirill,50,Freistil,25,21.7
+PRIGODA,Kirill,100,Freistil,50,51.87
+PRIGODA,Kirill,100,Freistil,25,47.81
+PRIGODA,Kirill,200,Freistil,50,1:55.19
+PRIGODA,Kirill,200,Freistil,25,1:51.73
+PRIGODA,Kirill,50,Brust,25,25.26
+PRIGODA,Kirill,100,Brust,50,58.59
+PRIGODA,Kirill,100,Brust,50,58.59
+PRIGODA,Kirill,100,Brust,25,55.78
+PRIGODA,Kirill,50,Schmetterling,25,24.14
+QIN,Haiyang,50,Brust,50,26.2
+QIN,Haiyang,50,Brust,25,25.81
+QIN,Haiyang,100,Brust,50,57.69
+QIN,Haiyang,100,Brust,50,57.69
+QIN,Haiyang,100,Brust,25,56.33
+QIN,Haiyang,200,Brust,50,2:05.48
+QIN,Haiyang,200,Brust,25,2:01.15
+QIN,Haiyang,100,Lagen,25,57.18
+QIN,Haiyang,200,Lagen,50,1:57.06
+QIN,Haiyang,200,Lagen,25,1:54.98
+QIN,Haiyang,50,Brust,25,25.92
+QIN,Haiyang,100,Brust,50,57.43
+QIN,Haiyang,100,Brust,25,57.36
+SAKÇI,Emre,50,Freistil,50,22.09
+SAKÇI,Emre,50,Freistil,25,21.1
+SAKÇI,Emre,100,Freistil,50,49.43
+SAKÇI,Emre,100,Freistil,25,46.63
+SAKÇI,Emre,200,Freistil,50,1:55.81
+SAKÇI,Emre,200,Freistil,25,1:44.37
+SAKÇI,Emre,400,Freistil,50,4:38.22
+SAKÇI,Emre,400,Freistil,25,4:29.22
+SAKÇI,Emre,800,Freistil,50,9:32.17
+SAKÇI,Emre,1500,Freistil,50,18:01.63
+SAKÇI,Emre,1500,Freistil,25,17:34.51
+SAKÇI,Emre,50,Rücken,25,25.09
+SAKÇI,Emre,50,Brust,50,26.83
+SAKÇI,Emre,50,Brust,25,24.95
+SAKÇI,Emre,100,Brust,50,58.85
+SAKÇI,Emre,100,Brust,25,55.74
+SAKÇI,Emre,200,Brust,50,2:33.25
+SAKÇI,Emre,200,Brust,25,2:09.13
+SAKÇI,Emre,50,Schmetterling,50,23.96
+SAKÇI,Emre,50,Schmetterling,25,22.66
+SAKÇI,Emre,100,Schmetterling,25,1:00.66
+SAKÇI,Emre,100,Lagen,25,51.79
+SAKÇI,Emre,200,Lagen,50,2:22.35
+SAKÇI,Emre,400,Lagen,50,5:29.88
+SAKÇI,Emre,400,Lagen,25,5:08.74
+SAKÇI,Emre,50,Freistil,25,21.28
+SAKÇI,Emre,100,Freistil,50,48.87
+SAKÇI,Emre,100,Freistil,25,46.55
+SAKÇI,Emre,200,Freistil,50,2:00.49
+SAKÇI,Emre,200,Freistil,25,1:46.55
+SAKÇI,Emre,50,Brust,25,25.11
+SAKÇI,Emre,100,Brust,50,58.76
+SAKÇI,Emre,100,Brust,25,55.79
+SANTOS,Nicholas,50,Freistil,50,21.69
+SANTOS,Nicholas,50,Freistil,25,20.74
+SANTOS,Nicholas,100,Freistil,50,49.14
+SANTOS,Nicholas,100,Freistil,25,47.31
+SANTOS,Nicholas,50,Schmetterling,50,22.6
+SANTOS,Nicholas,50,Schmetterling,25,21.75
+SANTOS,Nicholas,100,Schmetterling,50,53.16
+SANTOS,Nicholas,100,Schmetterling,25,49.87
+SANTOS,Nicholas,50,Freistil,25,21.63
+SANTOS,Nicholas,100,Freistil,50,49.68
+SANTOS,Nicholas,100,Freistil,25,47.05
+SANTOS,Nicholas,200,Freistil,50,1:57.81
+SANTOS,Nicholas,50,Schmetterling,25,21.68
+SANTOS,Nicholas,100,Schmetterling,50,53.7
+SANTOS,Nicholas,100,Schmetterling,25,49.42
+SETO,Daiya,50,Freistil,50,25.01
+SETO,Daiya,100,Freistil,50,53.32
+SETO,Daiya,100,Freistil,25,49.83
+SETO,Daiya,200,Freistil,50,1:48.71
+SETO,Daiya,200,Freistil,25,1:43.90
+SETO,Daiya,400,Freistil,50,4:11.00
+SETO,Daiya,400,Freistil,25,3:48.85
+SETO,Daiya,800,Freistil,25,7:53.36
+SETO,Daiya,1500,Freistil,25,14:48.97
+SETO,Daiya,50,Rücken,50,28.64
+SETO,Daiya,100,Rücken,50,1:01.98
+SETO,Daiya,200,Rücken,25,1:53.93
+SETO,Daiya,50,Brust,50,27.97
+SETO,Daiya,50,Brust,25,26.66
+SETO,Daiya,100,Brust,25,56.93
+SETO,Daiya,200,Brust,50,2:11.21
+SETO,Daiya,200,Brust,25,2:00.35
+SETO,Daiya,50,Schmetterling,50,25.16
+SETO,Daiya,50,Schmetterling,25,23.57
+SETO,Daiya,100,Schmetterling,50,52.36
+SETO,Daiya,100,Schmetterling,25,50.71
+SETO,Daiya,200,Schmetterling,50,1:52.53
+SETO,Daiya,200,Schmetterling,25,1:48.24
+SETO,Daiya,100,Lagen,25,51.29
+SETO,Daiya,200,Lagen,50,1:55.55
+SETO,Daiya,200,Lagen,25,1:50.66
+SETO,Daiya,400,Lagen,50,4:07.95
+SETO,Daiya,400,Lagen,25,3:54.81
+SETO,Daiya,50,Freistil,50,25.66
+SETO,Daiya,50,Freistil,25,22.29
+SETO,Daiya,100,Freistil,50,50.7
+SETO,Daiya,100,Freistil,25,48.74
+SETO,Daiya,200,Freistil,50,1:47.45
+SETO,Daiya,200,Freistil,25,1:42.54
+SETO,Daiya,50,Schmetterling,50,26.77
+SETO,Daiya,100,Schmetterling,50,53.21
+SETO,Daiya,100,Schmetterling,25,50.1
+SHYMANOVICH,Ilya,50,Freistil,50,23.24
+SHYMANOVICH,Ilya,50,Freistil,25,22.54
+SHYMANOVICH,Ilya,100,Freistil,50,50.8
+SHYMANOVICH,Ilya,100,Freistil,25,48.68
+SHYMANOVICH,Ilya,200,Freistil,25,1:48.19
+SHYMANOVICH,Ilya,400,Freistil,50,4:15.93
+SHYMANOVICH,Ilya,50,Rücken,50,27.61
+SHYMANOVICH,Ilya,100,Rücken,25,56.57
+SHYMANOVICH,Ilya,50,Brust,50,26.28
+SHYMANOVICH,Ilya,50,Brust,25,25.25
+SHYMANOVICH,Ilya,100,Brust,50,58.29
+SHYMANOVICH,Ilya,100,Brust,25,55.28
+SHYMANOVICH,Ilya,200,Brust,50,2:10.97
+SHYMANOVICH,Ilya,200,Brust,25,2:01.73
+SHYMANOVICH,Ilya,50,Schmetterling,50,24.15
+SHYMANOVICH,Ilya,50,Schmetterling,25,23.51
+SHYMANOVICH,Ilya,100,Schmetterling,50,54.56
+SHYMANOVICH,Ilya,100,Schmetterling,25,52.17
+SHYMANOVICH,Ilya,200,Schmetterling,25,1:57.87
+SHYMANOVICH,Ilya,100,Lagen,25,53.26
+SHYMANOVICH,Ilya,200,Lagen,50,2:02.49
+SHYMANOVICH,Ilya,200,Lagen,25,1:57.75
+SHYMANOVICH,Ilya,400,Lagen,50,4:35.49
+SHYMANOVICH,Ilya,400,Lagen,25,4:16.97
+SHYMANOVICH,Ilya,50,Freistil,25,21.52
+SHYMANOVICH,Ilya,100,Freistil,50,49.5
+SHYMANOVICH,Ilya,100,Freistil,25,48.88
+SHYMANOVICH,Ilya,200,Freistil,50,1:54.40
+SHYMANOVICH,Ilya,200,Freistil,25,1:51.77
+SHYMANOVICH,Ilya,50,Brust,25,25.04
+SHYMANOVICH,Ilya,100,Brust,50,57.84
+SHYMANOVICH,Ilya,100,Brust,25,55
+SHYMANOVICH,Ilya,50,Schmetterling,25,24.81
+STEWART,Coleman M,50,Freistil,50,23.67
+STEWART,Coleman M,50,Freistil,25,21.62
+STEWART,Coleman M,100,Freistil,50,48.45
+STEWART,Coleman M,100,Freistil,25,47.74
+STEWART,Coleman M,200,Freistil,50,1:50.96
+STEWART,Coleman M,400,Freistil,50,4:25.23
+STEWART,Coleman M,800,Freistil,50,9:32.75
+STEWART,Coleman M,50,Rücken,50,25.32
+STEWART,Coleman M,50,Rücken,25,22.61
+STEWART,Coleman M,100,Rücken,50,53.85
+STEWART,Coleman M,100,Rücken,25,48.33
+STEWART,Coleman M,200,Rücken,50,1:58.30
+STEWART,Coleman M,200,Rücken,25,1:50.98
+STEWART,Coleman M,50,Brust,50,44.51
+STEWART,Coleman M,100,Brust,50,1:13.82
+STEWART,Coleman M,200,Brust,50,2:38.45
+STEWART,Coleman M,50,Schmetterling,50,23.84
+STEWART,Coleman M,50,Schmetterling,25,22.98
+STEWART,Coleman M,100,Schmetterling,50,51.54
+STEWART,Coleman M,100,Schmetterling,25,49.1
+STEWART,Coleman M,200,Lagen,50,2:08.60
+STEWART,Coleman M,400,Lagen,50,4:43.98
+STEWART,Coleman M,100,Freistil,50,51.3
+STEWART,Coleman M,200,Freistil,50,1:52.83
+STEWART,Coleman M,100,Brust,50,1:07.07
+STEWART,Coleman M,100,Schmetterling,25,50.85
+STUBBLETY-COOK,Zac,100,Freistil,50,59.13
+STUBBLETY-COOK,Zac,100,Freistil,25,54.68
+STUBBLETY-COOK,Zac,200,Freistil,25,1:57.72
+STUBBLETY-COOK,Zac,50,Brust,50,27.94
+STUBBLETY-COOK,Zac,50,Brust,25,27.57
+STUBBLETY-COOK,Zac,100,Brust,50,59.51
+STUBBLETY-COOK,Zac,100,Brust,25,58.18
+STUBBLETY-COOK,Zac,200,Brust,50,2:05.95
+STUBBLETY-COOK,Zac,200,Brust,25,2:03.94
+STUBBLETY-COOK,Zac,50,Schmetterling,25,29.56
+STUBBLETY-COOK,Zac,100,Lagen,25,57.53
+STUBBLETY-COOK,Zac,200,Lagen,50,2:03.62
+STUBBLETY-COOK,Zac,200,Lagen,25,2:10.54
+STUBBLETY-COOK,Zac,100,Brust,50,58.67
+STUBBLETY-COOK,Zac,100,Brust,25,58.08
+SZABO,Szebasztian,50,Freistil,50,21.6
+SZABO,Szebasztian,50,Freistil,25,20.72
+SZABO,Szebasztian,100,Freistil,50,48.19
+SZABO,Szebasztian,100,Freistil,25,46.63
+SZABO,Szebasztian,200,Freistil,50,1:53.92
+SZABO,Szebasztian,400,Freistil,50,4:51.49
+SZABO,Szebasztian,400,Freistil,25,5:30.34
+SZABO,Szebasztian,50,Rücken,50,25.32
+SZABO,Szebasztian,50,Rücken,25,23.47
+SZABO,Szebasztian,100,Rücken,50,57.15
+SZABO,Szebasztian,100,Rücken,25,54.28
+SZABO,Szebasztian,200,Rücken,25,2:37.15
+SZABO,Szebasztian,50,Brust,50,30.63
+SZABO,Szebasztian,50,Brust,25,41.05
+SZABO,Szebasztian,100,Brust,50,1:37.27
+SZABO,Szebasztian,200,Brust,50,3:24.61
+SZABO,Szebasztian,50,Schmetterling,50,22.9
+SZABO,Szebasztian,50,Schmetterling,25,21.75
+SZABO,Szebasztian,100,Schmetterling,50,51.28
+SZABO,Szebasztian,100,Schmetterling,25,49.68
+SZABO,Szebasztian,100,Lagen,25,53.84
+SZABO,Szebasztian,200,Lagen,50,2:30.37
+SZABO,Szebasztian,200,Lagen,25,2:41.48
+SZABO,Szebasztian,50,Freistil,25,21.01
+SZABO,Szebasztian,100,Freistil,50,47.37
+SZABO,Szebasztian,100,Freistil,25,46.26
+SZABO,Szebasztian,100,Freistil,25,46.26
+SZABO,Szebasztian,200,Freistil,50,1:54.59
+SZABO,Szebasztian,50,Schmetterling,25,21.77
+SZABO,Szebasztian,100,Schmetterling,50,51
+SZABO,Szebasztian,100,Schmetterling,25,48.97
+WELLBROCK,Florian,50,Freistil,50,24.81
+WELLBROCK,Florian,50,Freistil,25,24.3
+WELLBROCK,Florian,100,Freistil,50,52.12
+WELLBROCK,Florian,100,Freistil,25,50.83
+WELLBROCK,Florian,200,Freistil,50,1:49.18
+WELLBROCK,Florian,200,Freistil,25,1:46.98
+WELLBROCK,Florian,400,Freistil,50,3:44.35
+WELLBROCK,Florian,400,Freistil,25,3:40.83
+WELLBROCK,Florian,800,Freistil,50,7:39.63
+WELLBROCK,Florian,800,Freistil,25,7:27.99
+WELLBROCK,Florian,1500,Freistil,50,14:34.89
+WELLBROCK,Florian,1500,Freistil,25,14:06.88
+WELLBROCK,Florian,2000,Freistil,50,21:27.78
+WELLBROCK,Florian,3000,Freistil,50,31:42.12
+WELLBROCK,Florian,5000,Freistil,50,52:04.71
+WELLBROCK,Florian,50,Rücken,50,41.62
+WELLBROCK,Florian,50,Rücken,25,27.28
+WELLBROCK,Florian,100,Rücken,50,1:04.03
+WELLBROCK,Florian,100,Rücken,25,57.52
+WELLBROCK,Florian,200,Rücken,50,2:14.91
+WELLBROCK,Florian,200,Rücken,25,2:00.49
+WELLBROCK,Florian,100,Brust,25,1:11.48
+WELLBROCK,Florian,50,Schmetterling,50,26.59
+WELLBROCK,Florian,100,Schmetterling,50,56
+WELLBROCK,Florian,100,Schmetterling,25,56.71
+WELLBROCK,Florian,200,Schmetterling,50,2:01.45
+WELLBROCK,Florian,200,Schmetterling,25,1:59.68
+WELLBROCK,Florian,100,Lagen,25,59.22
+WELLBROCK,Florian,200,Lagen,50,2:09.98
+WELLBROCK,Florian,200,Lagen,25,2:05.69
+WELLBROCK,Florian,400,Lagen,50,4:27.13
+WELLBROCK,Florian,400,Lagen,25,4:18.40
+WELLBROCK,Florian,50,Freistil,25,24.1
+WELLBROCK,Florian,100,Freistil,50,54.96
+WELLBROCK,Florian,200,Freistil,50,1:54.98
+WELLBROCK,Florian,50,Schmetterling,25,26.13
+WILLIER,Diesel,50,Freistil,25,29.41
+WILLIER,Diesel,100,Freistil,25,1:06.05
+WILLIER,Diesel,200,Freistil,25,1:37.15
+WILLIER,Diesel,800,Freistil,25,11:26.29
+WILLIER,Diesel,100,Schmetterling,25,1:18.48
+WILLIER,Diesel,100,Lagen,25,1:16.05
+ATHERTON,Minna,50,Freestyle,50,26.14
+ATHERTON,Minna,50,Freestyle,25,25.39
+ATHERTON,Minna,100,Freestyle,50,56.42
+ATHERTON,Minna,100,Freestyle,25,54.48
+ATHERTON,Minna,200,Freestyle,50,2:02.57
+ATHERTON,Minna,200,Freestyle,25,1:57.11
+ATHERTON,Minna,400,Freestyle,50,4:31.91
+ATHERTON,Minna,400,Freestyle,25,4:52.18
+ATHERTON,Minna,50,Backstroke,50,27.49
+ATHERTON,Minna,50,Backstroke,25,25.81
+ATHERTON,Minna,100,Backstroke,50,58.6
+ATHERTON,Minna,100,Backstroke,25,54.89
+ATHERTON,Minna,200,Backstroke,50,2:07.38
+ATHERTON,Minna,200,Backstroke,25,1:59.25
+ATHERTON,Minna,50,Breaststroke,25,40.66
+ATHERTON,Minna,100,Breaststroke,50,1:31.30
+ATHERTON,Minna,50,Butterfly,50,28.89
+ATHERTON,Minna,100,Butterfly,50,1:02.89
+ATHERTON,Minna,100,Medley,25,1:01.90
+ATHERTON,Minna,200,Medley,50,2:18.44
+ATHERTON,Minna,50,Freestyle,25,24.02
+ATHERTON,Minna,100,Freestyle,50,55.93
+ATHERTON,Minna,100,Freestyle,25,52.19
+ATHERTON,Minna,200,Freestyle,25,1:54.73
+BELMONTE GARCIA,Mireia,50,Freestyle,50,27.93
+BELMONTE GARCIA,Mireia,50,Freestyle,25,25.63
+BELMONTE GARCIA,Mireia,100,Freestyle,50,58.02
+BELMONTE GARCIA,Mireia,100,Freestyle,25,54.92
+BELMONTE GARCIA,Mireia,200,Freestyle,50,1:57.58
+BELMONTE GARCIA,Mireia,200,Freestyle,25,1:55.33
+BELMONTE GARCIA,Mireia,400,Freestyle,50,4:03.84
+BELMONTE GARCIA,Mireia,400,Freestyle,25,3:54.52
+BELMONTE GARCIA,Mireia,800,Freestyle,50,8:18.55
+BELMONTE GARCIA,Mireia,800,Freestyle,25,7:59.34
+BELMONTE GARCIA,Mireia,1500,Freestyle,50,15:50.89
+BELMONTE GARCIA,Mireia,1500,Freestyle,25,15:19.71
+BELMONTE GARCIA,Mireia,2000,Freestyle,25,21:45.16
+BELMONTE GARCIA,Mireia,3000,Freestyle,25,32:28.90
+BELMONTE GARCIA,Mireia,5000,Freestyle,50,56:00.31
+BELMONTE GARCIA,Mireia,50,Backstroke,50,30.65
+BELMONTE GARCIA,Mireia,100,Backstroke,50,1:05.70
+BELMONTE GARCIA,Mireia,100,Backstroke,25,1:01.87
+BELMONTE GARCIA,Mireia,200,Backstroke,50,2:14.37
+BELMONTE GARCIA,Mireia,200,Backstroke,25,2:11.82
+BELMONTE GARCIA,Mireia,50,Breaststroke,50,34.19
+BELMONTE GARCIA,Mireia,100,Breaststroke,50,1:11.39
+BELMONTE GARCIA,Mireia,100,Breaststroke,25,1:06.12
+BELMONTE GARCIA,Mireia,200,Breaststroke,50,2:27.00
+BELMONTE GARCIA,Mireia,200,Breaststroke,25,2:21.65
+BELMONTE GARCIA,Mireia,50,Butterfly,50,28.92
+BELMONTE GARCIA,Mireia,50,Butterfly,25,27.99
+BELMONTE GARCIA,Mireia,100,Butterfly,50,1:00.84
+BELMONTE GARCIA,Mireia,100,Butterfly,25,59.38
+BELMONTE GARCIA,Mireia,200,Butterfly,50,2:04.78
+BELMONTE GARCIA,Mireia,200,Butterfly,25,1:59.61
+BELMONTE GARCIA,Mireia,100,Medley,25,1:00.80
+BELMONTE GARCIA,Mireia,200,Medley,50,2:09.45
+BELMONTE GARCIA,Mireia,200,Medley,25,2:05.73
+BELMONTE GARCIA,Mireia,400,Medley,50,4:31.21
+BELMONTE GARCIA,Mireia,400,Medley,25,4:18.94
+BELMONTE GARCIA,Mireia,100,Freestyle,50,1:00.63
+BELMONTE GARCIA,Mireia,200,Freestyle,50,1:57.85
+BELMONTE GARCIA,Mireia,100,Breaststroke,50,1:10.46
+BELMONTE GARCIA,Mireia,100,Butterfly,50,1:00.75
+CAMPBELL,Cate,50,Freestyle,50,23.78
+CAMPBELL,Cate,50,Freestyle,25,23.19
+CAMPBELL,Cate,100,Freestyle,50,52.03
+CAMPBELL,Cate,100,Freestyle,25,50.25
+CAMPBELL,Cate,200,Freestyle,50,1:58.21
+CAMPBELL,Cate,200,Freestyle,25,1:54.69
+CAMPBELL,Cate,50,Backstroke,50,31.43
+CAMPBELL,Cate,50,Backstroke,25,28.69
+CAMPBELL,Cate,100,Backstroke,25,1:19.59
+CAMPBELL,Cate,100,Breaststroke,25,1:23.58
+CAMPBELL,Cate,200,Breaststroke,25,2:57.09
+CAMPBELL,Cate,50,Butterfly,50,25.47
+CAMPBELL,Cate,50,Butterfly,25,25.29
+CAMPBELL,Cate,200,Medley,25,2:49.76
+CAMPBELL,Cate,50,Freestyle,50,23.29
+CAMPBELL,Cate,50,Freestyle,25,24.4
+CAMPBELL,Cate,100,Freestyle,50,51
+CAMPBELL,Cate,100,Freestyle,25,50.38
+CHIKUNOVA,Evgeniia,50,Breaststroke,50,30.54
+CHIKUNOVA,Evgeniia,50,Breaststroke,25,29.85
+CHIKUNOVA,Evgeniia,100,Breaststroke,50,1:04.92
+CHIKUNOVA,Evgeniia,100,Breaststroke,25,1:03.53
+CHIKUNOVA,Evgeniia,200,Breaststroke,50,2:17.55
+CHIKUNOVA,Evgeniia,200,Breaststroke,25,2:14.70
+CHIKUNOVA,Evgeniia,50,Butterfly,25,27.67
+CHIKUNOVA,Evgeniia,100,Medley,25,1:01.56
+CHIKUNOVA,Evgeniia,200,Medley,50,2:30.96
+CHIKUNOVA,Evgeniia,400,Medley,50,4:55.34
+CHIKUNOVA,Evgeniia,50,Breaststroke,25,29.39
+CHIKUNOVA,Evgeniia,100,Breaststroke,50,1:05.09
+CHIKUNOVA,Evgeniia,100,Breaststroke,25,1:03.76
+DOUGLASS,Katherine C,50,Freestyle,50,24.48
+DOUGLASS,Katherine C,100,Freestyle,50,52.57
+DOUGLASS,Katherine C,100,Freestyle,25,52.39
+DOUGLASS,Katherine C,200,Freestyle,50,2:03.21
+DOUGLASS,Katherine C,100,Backstroke,50,1:05.08
+DOUGLASS,Katherine C,50,Breaststroke,50,32.9
+DOUGLASS,Katherine C,100,Breaststroke,50,1:08.51
+DOUGLASS,Katherine C,200,Breaststroke,50,2:21.22
+DOUGLASS,Katherine C,200,Breaststroke,25,2:15.77
+DOUGLASS,Katherine C,50,Butterfly,50,26.92
+DOUGLASS,Katherine C,100,Butterfly,50,56.43
+DOUGLASS,Katherine C,200,Medley,50,2:07.09
+DOUGLASS,Katherine C,200,Medley,25,2:02.12
+DOUGLASS,Katherine C,400,Medley,50,4:59.46
+DOUGLASS,Katherine C,50,Freestyle,25,22.72
+DOUGLASS,Katherine C,100,Freestyle,50,52.28
+DOUGLASS,Katherine C,100,Freestyle,25,50.47
+DOUGLASS,Katherine C,200,Freestyle,50,2:05.75
+DOUGLASS,Katherine C,100,Breaststroke,50,1:10.85
+DOUGLASS,Katherine C,100,Breaststroke,25,1:05.06
+DOUGLASS,Katherine C,100,Butterfly,25,54.46
+HAUGHEY,Siobhan,50,Freestyle,50,24.3
+HAUGHEY,Siobhan,50,Freestyle,25,23.75
+HAUGHEY,Siobhan,100,Freestyle,50,52.02
+HAUGHEY,Siobhan,100,Freestyle,25,50.79
+HAUGHEY,Siobhan,200,Freestyle,50,1:53.92
+HAUGHEY,Siobhan,200,Freestyle,25,1:50.31
+HAUGHEY,Siobhan,400,Freestyle,50,4:05.30
+HAUGHEY,Siobhan,400,Freestyle,25,3:56.52
+HAUGHEY,Siobhan,50,Breaststroke,50,30.36
+HAUGHEY,Siobhan,50,Breaststroke,25,29.88
+HAUGHEY,Siobhan,100,Breaststroke,50,1:10.04
+HAUGHEY,Siobhan,200,Breaststroke,50,2:40.88
+HAUGHEY,Siobhan,200,Medley,50,2:12.10
+HAUGHEY,Siobhan,200,Medley,25,2:07.65
+HAUGHEY,Siobhan,400,Medley,50,4:55.49
+HAUGHEY,Siobhan,100,Freestyle,50,52.59
+HAUGHEY,Siobhan,100,Freestyle,25,50.7
+HAUGHEY,Siobhan,200,Freestyle,50,1:56.84
+HAUGHEY,Siobhan,100,Breaststroke,50,1:07.49
+HAUGHEY,Siobhan,100,Butterfly,50,57.67
+HUSKE,Torri,50,Freestyle,50,24.45
+HUSKE,Torri,50,Freestyle,25,24.08
+HUSKE,Torri,100,Freestyle,50,52.92
+HUSKE,Torri,100,Freestyle,25,51.73
+HUSKE,Torri,200,Freestyle,50,1:59.14
+HUSKE,Torri,200,Freestyle,25,1:54.72
+HUSKE,Torri,50,Backstroke,50,28.37
+HUSKE,Torri,200,Breaststroke,50,2:42.45
+HUSKE,Torri,50,Butterfly,50,25.33
+HUSKE,Torri,50,Butterfly,25,24.64
+HUSKE,Torri,100,Butterfly,50,55.64
+HUSKE,Torri,100,Butterfly,25,54.75
+HUSKE,Torri,200,Butterfly,50,2:14.56
+HUSKE,Torri,200,Medley,50,2:09.75
+HUSKE,Torri,50,Freestyle,25,24.44
+HUSKE,Torri,100,Freestyle,50,54.5
+HUSKE,Torri,100,Freestyle,25,52.74
+HUSKE,Torri,200,Freestyle,50,2:04.00
+HUSKE,Torri,50,Butterfly,25,24.94
+HUSKE,Torri,100,Butterfly,50,56.16
+HUSKE,Torri,100,Butterfly,25,54.53
+KING,Lillia C,50,Freestyle,50,27.99
+KING,Lillia C,50,Freestyle,25,27.14
+KING,Lillia C,200,Backstroke,50,2:19.30
+KING,Lillia C,50,Breaststroke,50,29.4
+KING,Lillia C,50,Breaststroke,25,28.77
+KING,Lillia C,100,Breaststroke,50,1:04.13
+KING,Lillia C,100,Breaststroke,25,1:02.50
+KING,Lillia C,200,Breaststroke,50,2:19.92
+KING,Lillia C,200,Breaststroke,25,2:15.56
+KING,Lillia C,50,Butterfly,50,28.83
+KING,Lillia C,100,Medley,25,1:00.05
+KING,Lillia C,200,Medley,50,2:16.18
+KING,Lillia C,200,Medley,25,2:16.07
+KING,Lillia C,400,Medley,50,4:46.49
+KING,Lillia C,50,Breaststroke,25,28.78
+KING,Lillia C,100,Breaststroke,50,1:04.48
+KING,Lillia C,100,Breaststroke,25,1:02.40
+LI,Bingjie,100,Freestyle,50,54.4
+LI,Bingjie,100,Freestyle,25,54.95
+LI,Bingjie,200,Freestyle,50,1:55.83
+LI,Bingjie,200,Freestyle,25,1:53.42
+LI,Bingjie,400,Freestyle,50,4:01.08
+LI,Bingjie,400,Freestyle,25,3:51.30
+LI,Bingjie,800,Freestyle,50,8:13.31
+LI,Bingjie,800,Freestyle,25,8:02.90
+LI,Bingjie,1500,Freestyle,50,15:45.71
+LI,Bingjie,200,Medley,25,2:14.94
+LI,Bingjie,400,Medley,25,4:40.03
+LI,Bingjie,100,Freestyle,50,54.16
+LI,Bingjie,200,Freestyle,50,1:55.30
+LI,Bingjie,200,Freestyle,25,1:57.72
+MACNEIL,Margaret,50,Freestyle,50,24.79
+MACNEIL,Margaret,50,Freestyle,25,23.74
+MACNEIL,Margaret,100,Freestyle,50,53.77
+MACNEIL,Margaret,100,Freestyle,25,51.82
+MACNEIL,Margaret,200,Freestyle,50,2:02.61
+MACNEIL,Margaret,200,Freestyle,25,1:59.31
+MACNEIL,Margaret,400,Freestyle,50,4:34.62
+MACNEIL,Margaret,400,Freestyle,25,4:15.80
+MACNEIL,Margaret,800,Freestyle,50,9:18.79
+MACNEIL,Margaret,800,Freestyle,25,8:52.34
+MACNEIL,Margaret,1500,Freestyle,50,17:57.70
+MACNEIL,Margaret,1500,Freestyle,25,17:33.90
+MACNEIL,Margaret,50,Backstroke,50,28.18
+MACNEIL,Margaret,50,Backstroke,25,25.25
+MACNEIL,Margaret,100,Backstroke,50,59.45
+MACNEIL,Margaret,100,Backstroke,25,56.16
+MACNEIL,Margaret,200,Backstroke,50,2:21.00
+MACNEIL,Margaret,200,Backstroke,25,2:09.33
+MACNEIL,Margaret,50,Breaststroke,50,35.67
+MACNEIL,Margaret,50,Breaststroke,25,34.68
+MACNEIL,Margaret,100,Breaststroke,50,1:17.50
+MACNEIL,Margaret,100,Breaststroke,25,1:13.53
+MACNEIL,Margaret,200,Breaststroke,50,2:47.80
+MACNEIL,Margaret,200,Breaststroke,25,2:38.37
+MACNEIL,Margaret,50,Butterfly,50,25.97
+MACNEIL,Margaret,50,Butterfly,25,24.64
+MACNEIL,Margaret,100,Butterfly,50,55.59
+MACNEIL,Margaret,100,Butterfly,25,54.05
+MACNEIL,Margaret,200,Butterfly,50,2:14.56
+MACNEIL,Margaret,200,Butterfly,25,2:10.44
+MACNEIL,Margaret,100,Medley,25,1:00.12
+MACNEIL,Margaret,200,Medley,50,2:19.61
+MACNEIL,Margaret,200,Medley,25,2:14.10
+MACNEIL,Margaret,400,Medley,50,5:00.06
+MACNEIL,Margaret,400,Medley,25,4:46.47
+MACNEIL,Margaret,50,Freestyle,50,26.02
+MACNEIL,Margaret,50,Freestyle,25,23.5
+MACNEIL,Margaret,100,Freestyle,50,53.07
+MACNEIL,Margaret,100,Freestyle,25,51.11
+MACNEIL,Margaret,200,Freestyle,50,2:03.75
+MACNEIL,Margaret,200,Freestyle,25,2:00.06
+MACNEIL,Margaret,100,Breaststroke,50,1:19.65
+MACNEIL,Margaret,50,Butterfly,50,26.96
+MACNEIL,Margaret,50,Butterfly,25,24.4
+MACNEIL,Margaret,100,Butterfly,50,55.27
+MACNEIL,Margaret,100,Butterfly,25,54.59
+MCINTOSH,Summer,50,Freestyle,50,27.17
+MCINTOSH,Summer,50,Freestyle,25,27.43
+MCINTOSH,Summer,100,Freestyle,50,54.39
+MCINTOSH,Summer,100,Freestyle,25,54.14
+MCINTOSH,Summer,200,Freestyle,50,1:53.65
+MCINTOSH,Summer,200,Freestyle,25,1:52.63
+MCINTOSH,Summer,400,Freestyle,50,3:56.08
+MCINTOSH,Summer,400,Freestyle,25,3:52.80
+MCINTOSH,Summer,800,Freestyle,50,8:20.19
+MCINTOSH,Summer,800,Freestyle,25,8:07.12
+MCINTOSH,Summer,1500,Freestyle,50,16:15.19
+MCINTOSH,Summer,1500,Freestyle,25,16:17.40
+MCINTOSH,Summer,50,Backstroke,50,32.27
+MCINTOSH,Summer,50,Backstroke,25,30.04
+MCINTOSH,Summer,100,Backstroke,50,1:00.25
+MCINTOSH,Summer,100,Backstroke,25,58.11
+MCINTOSH,Summer,200,Backstroke,50,2:07.15
+MCINTOSH,Summer,200,Backstroke,25,2:02.85
+MCINTOSH,Summer,50,Breaststroke,50,35.95
+MCINTOSH,Summer,50,Breaststroke,25,34.95
+MCINTOSH,Summer,100,Breaststroke,50,1:10.39
+MCINTOSH,Summer,100,Breaststroke,25,1:11.95
+MCINTOSH,Summer,200,Breaststroke,50,2:29.56
+MCINTOSH,Summer,200,Breaststroke,25,2:29.31
+MCINTOSH,Summer,50,Butterfly,50,28.64
+MCINTOSH,Summer,50,Butterfly,25,27.23
+MCINTOSH,Summer,100,Butterfly,50,57.92
+MCINTOSH,Summer,100,Butterfly,25,1:00.16
+MCINTOSH,Summer,200,Butterfly,50,2:04.06
+MCINTOSH,Summer,200,Butterfly,25,2:03.40
+MCINTOSH,Summer,100,Medley,25,1:01.53
+MCINTOSH,Summer,200,Medley,50,2:06.89
+MCINTOSH,Summer,200,Medley,25,2:06.57
+MCINTOSH,Summer,400,Medley,50,4:25.87
+MCINTOSH,Summer,400,Medley,25,4:21.49
+MCINTOSH,Summer,50,Freestyle,50,27.29
+MCINTOSH,Summer,50,Freestyle,25,28.31
+MCINTOSH,Summer,100,Freestyle,50,53.33
+MCINTOSH,Summer,100,Freestyle,25,53.12
+MCINTOSH,Summer,200,Freestyle,50,1:53.97
+MCINTOSH,Summer,200,Freestyle,25,1:59.58
+MCINTOSH,Summer,50,Breaststroke,25,34.88
+MCINTOSH,Summer,100,Breaststroke,50,1:14.84
+MCINTOSH,Summer,100,Breaststroke,25,1:11.41
+MCINTOSH,Summer,50,Butterfly,50,28.61
+MCINTOSH,Summer,50,Butterfly,25,28.19
+MCINTOSH,Summer,100,Butterfly,50,1:02.08
+MCINTOSH,Summer,100,Butterfly,25,1:17.24
+MCKEOWN,Kaylee,50,Freestyle,50,26.37
+MCKEOWN,Kaylee,50,Freestyle,25,27.95
+MCKEOWN,Kaylee,100,Freestyle,50,54.33
+MCKEOWN,Kaylee,100,Freestyle,25,1:00.05
+MCKEOWN,Kaylee,200,Freestyle,50,1:56.88
+MCKEOWN,Kaylee,200,Freestyle,25,1:55.84
+MCKEOWN,Kaylee,400,Freestyle,50,4:15.37
+MCKEOWN,Kaylee,50,Backstroke,50,26.86
+MCKEOWN,Kaylee,50,Backstroke,25,26
+MCKEOWN,Kaylee,100,Backstroke,50,57.33
+MCKEOWN,Kaylee,100,Backstroke,25,55.49
+MCKEOWN,Kaylee,200,Backstroke,50,2:03.14
+MCKEOWN,Kaylee,200,Backstroke,25,1:58.94
+MCKEOWN,Kaylee,50,Breaststroke,25,36.29
+MCKEOWN,Kaylee,100,Breaststroke,50,1:06.86
+MCKEOWN,Kaylee,100,Breaststroke,25,1:08.06
+MCKEOWN,Kaylee,200,Breaststroke,50,2:24.18
+MCKEOWN,Kaylee,50,Butterfly,50,28.44
+MCKEOWN,Kaylee,50,Butterfly,25,30.22
+MCKEOWN,Kaylee,100,Butterfly,50,1:01.63
+MCKEOWN,Kaylee,100,Medley,25,59.14
+MCKEOWN,Kaylee,200,Medley,50,2:07.60
+MCKEOWN,Kaylee,200,Medley,25,2:03.57
+MCKEOWN,Kaylee,400,Medley,50,4:31.74
+MEILUTYTE,Ruta,50,Freestyle,50,25.04
+MEILUTYTE,Ruta,50,Freestyle,25,24.32
+MEILUTYTE,Ruta,100,Freestyle,50,54.94
+MEILUTYTE,Ruta,100,Freestyle,25,53.54
+MEILUTYTE,Ruta,200,Freestyle,50,2:00.11
+MEILUTYTE,Ruta,200,Freestyle,25,2:12.62
+MEILUTYTE,Ruta,400,Freestyle,25,4:28.49
+MEILUTYTE,Ruta,800,Freestyle,25,9:29.83
+MEILUTYTE,Ruta,1500,Freestyle,25,18:13.25
+MEILUTYTE,Ruta,50,Backstroke,50,28.78
+MEILUTYTE,Ruta,50,Backstroke,25,28.36
+MEILUTYTE,Ruta,100,Backstroke,50,1:02.86
+MEILUTYTE,Ruta,100,Backstroke,25,1:15.16
+MEILUTYTE,Ruta,200,Backstroke,25,2:10.09
+MEILUTYTE,Ruta,50,Breaststroke,50,29.16
+MEILUTYTE,Ruta,50,Breaststroke,25,28.37
+MEILUTYTE,Ruta,100,Breaststroke,50,1:04.35
+MEILUTYTE,Ruta,100,Breaststroke,25,1:02.36
+MEILUTYTE,Ruta,200,Breaststroke,50,2:25.62
+MEILUTYTE,Ruta,200,Breaststroke,25,2:22.21
+MEILUTYTE,Ruta,50,Butterfly,50,27.14
+MEILUTYTE,Ruta,50,Butterfly,25,26.62
+MEILUTYTE,Ruta,100,Medley,25,57.68
+MEILUTYTE,Ruta,200,Medley,50,2:12.32
+MEILUTYTE,Ruta,200,Medley,25,2:09.55
+MEILUTYTE,Ruta,100,Freestyle,50,56.9
+MEILUTYTE,Ruta,50,Breaststroke,25,34.96
+MEILUTYTE,Ruta,100,Breaststroke,50,1:07.80
+MENDES,Mafalda Rocha,50,Freestyle,25,47.56
+MENDES,Mafalda Rocha,100,Freestyle,25,1:48.89
+MENDES,Mafalda Rocha,200,Freestyle,25,3:55.17
+MENDES,Mafalda Rocha,100,Breaststroke,25,2:08.53
+O'CALLAGHAN,Mollie,50,Freestyle,50,24.52
+O'CALLAGHAN,Mollie,50,Freestyle,25,24.4
+O'CALLAGHAN,Mollie,100,Freestyle,50,52.08
+O'CALLAGHAN,Mollie,100,Freestyle,25,51.5
+O'CALLAGHAN,Mollie,200,Freestyle,50,1:52.85
+O'CALLAGHAN,Mollie,200,Freestyle,25,1:55.24
+O'CALLAGHAN,Mollie,400,Freestyle,50,4:07.21
+O'CALLAGHAN,Mollie,800,Freestyle,50,10:07.99
+O'CALLAGHAN,Mollie,50,Backstroke,50,27.38
+O'CALLAGHAN,Mollie,50,Backstroke,25,25.49
+O'CALLAGHAN,Mollie,100,Backstroke,50,58.42
+O'CALLAGHAN,Mollie,100,Backstroke,50,58.42
+O'CALLAGHAN,Mollie,100,Backstroke,25,55.62
+O'CALLAGHAN,Mollie,200,Backstroke,50,2:08.48
+O'CALLAGHAN,Mollie,200,Backstroke,25,2:05.45
+O'CALLAGHAN,Mollie,50,Breaststroke,25,45.46
+O'CALLAGHAN,Mollie,50,Butterfly,50,27.86
+O'CALLAGHAN,Mollie,50,Butterfly,25,35.55
+O'CALLAGHAN,Mollie,100,Butterfly,50,1:13.18
+O'CALLAGHAN,Mollie,50,Freestyle,50,25.74
+O'CALLAGHAN,Mollie,50,Freestyle,25,23.9
+O'CALLAGHAN,Mollie,100,Freestyle,50,51.95
+O'CALLAGHAN,Mollie,200,Freestyle,50,1:54.80
+O'CALLAGHAN,Mollie,200,Freestyle,25,1:52.83
+PILATO,Benedetta,50,Freestyle,50,26.21
+PILATO,Benedetta,50,Freestyle,25,25.34
+PILATO,Benedetta,100,Freestyle,50,1:02.63
+PILATO,Benedetta,100,Freestyle,25,58.82
+PILATO,Benedetta,200,Freestyle,25,2:09.87
+PILATO,Benedetta,50,Backstroke,25,33.99
+PILATO,Benedetta,200,Backstroke,25,2:41.90
+PILATO,Benedetta,50,Breaststroke,50,29.3
+PILATO,Benedetta,50,Breaststroke,25,28.81
+PILATO,Benedetta,100,Breaststroke,50,1:05.70
+PILATO,Benedetta,100,Breaststroke,25,1:03.55
+PILATO,Benedetta,200,Breaststroke,50,2:31.99
+PILATO,Benedetta,200,Breaststroke,25,2:23.09
+PILATO,Benedetta,50,Butterfly,50,27.2
+PILATO,Benedetta,50,Butterfly,25,26.62
+PILATO,Benedetta,100,Butterfly,50,1:04.93
+PILATO,Benedetta,100,Butterfly,25,1:02.24
+PILATO,Benedetta,100,Medley,25,1:03.50
+PILATO,Benedetta,200,Medley,50,2:45.25
+PILATO,Benedetta,200,Medley,25,2:22.27
+PILATO,Benedetta,50,Freestyle,25,26.22
+PILATO,Benedetta,100,Freestyle,50,1:01.38
+PILATO,Benedetta,100,Freestyle,25,59.88
+PILATO,Benedetta,200,Freestyle,25,2:18.00
+PILATO,Benedetta,50,Breaststroke,50,31.7
+PILATO,Benedetta,50,Breaststroke,25,29.18
+PILATO,Benedetta,100,Breaststroke,50,1:05.65
+PILATO,Benedetta,100,Breaststroke,25,1:03.03
+PILATO,Benedetta,50,Butterfly,25,28.53
+PILATO,Benedetta,100,Butterfly,50,1:13.31
+PILATO,Benedetta,100,Butterfly,25,1:03.57
+PITTET,Amandine,25,Freestyle,25,25.49
+PITTET,Amandine,50,Freestyle,25,43.49
+PITTET,Amandine,100,Freestyle,25,1:43.99
+PITTET,Amandine,200,Freestyle,25,4:09.42
+PITTET,Amandine,25,Backstroke,25,26.61
+PITTET,Amandine,50,Backstroke,25,53.81
+PITTET,Amandine,100,Backstroke,25,1:53.26
+PITTET,Amandine,50,Breaststroke,25,53.07
+PITTET,Amandine,100,Breaststroke,25,1:53.51
+PITTET,Amandine,50,Butterfly,25,57.71
+PITTET,Amandine,100,Medley,25,1:59.79
+SCHOENMAKER,Tatjana R,50,Freestyle,50,28.36
+SCHOENMAKER,Tatjana R,100,Freestyle,50,59.31
+SCHOENMAKER,Tatjana R,100,Freestyle,25,1:00.15
+SCHOENMAKER,Tatjana R,200,Freestyle,50,2:05.60
+SCHOENMAKER,Tatjana R,200,Freestyle,25,2:06.48
+SCHOENMAKER,Tatjana R,400,Freestyle,50,4:24.58
+SCHOENMAKER,Tatjana R,400,Freestyle,25,4:26.00
+SCHOENMAKER,Tatjana R,50,Backstroke,25,33.36
+SCHOENMAKER,Tatjana R,50,Breaststroke,50,30.41
+SCHOENMAKER,Tatjana R,50,Breaststroke,25,31.7
+SCHOENMAKER,Tatjana R,100,Breaststroke,50,1:04.82
+SCHOENMAKER,Tatjana R,100,Breaststroke,25,1:07.81
+SCHOENMAKER,Tatjana R,200,Breaststroke,50,2:18.95
+SCHOENMAKER,Tatjana R,200,Breaststroke,25,2:25.55
+SCHOENMAKER,Tatjana R,50,Butterfly,50,29.51
+SCHOENMAKER,Tatjana R,100,Medley,25,1:06.43
+SCHOENMAKER,Tatjana R,200,Medley,50,2:16.79
+SCHOENMAKER,Tatjana R,200,Medley,25,2:16.12
+SCHOENMAKER,Tatjana R,100,Freestyle,25,58.77
+SCHOENMAKER,Tatjana R,50,Breaststroke,25,32.06
+SCHOENMAKER,Tatjana R,100,Breaststroke,50,1:07.16
+SCHOENMAKER,Tatjana R,100,Breaststroke,25,1:09.51
+SJOSTROM,Sarah,50,Freestyle,50,23.61
+SJOSTROM,Sarah,50,Freestyle,25,23
+SJOSTROM,Sarah,100,Freestyle,50,51.71
+SJOSTROM,Sarah,100,Freestyle,25,50.58
+SJOSTROM,Sarah,200,Freestyle,50,1:54.08
+SJOSTROM,Sarah,200,Freestyle,25,1:50.43
+SJOSTROM,Sarah,400,Freestyle,50,4:06.04
+SJOSTROM,Sarah,400,Freestyle,25,4:02.33
+SJOSTROM,Sarah,800,Freestyle,25,8:39.37
+SJOSTROM,Sarah,50,Backstroke,50,27.8
+SJOSTROM,Sarah,50,Backstroke,25,27.31
+SJOSTROM,Sarah,100,Backstroke,50,59.98
+SJOSTROM,Sarah,100,Backstroke,25,58.83
+SJOSTROM,Sarah,200,Backstroke,50,2:21.35
+SJOSTROM,Sarah,200,Backstroke,25,2:17.86
+SJOSTROM,Sarah,50,Breaststroke,25,31.51
+SJOSTROM,Sarah,100,Breaststroke,50,1:23.70
+SJOSTROM,Sarah,100,Breaststroke,25,1:11.38
+SJOSTROM,Sarah,200,Breaststroke,25,3:05.22
+SJOSTROM,Sarah,50,Butterfly,50,24.43
+SJOSTROM,Sarah,50,Butterfly,25,24.5
+SJOSTROM,Sarah,100,Butterfly,50,55.48
+SJOSTROM,Sarah,100,Butterfly,25,54.61
+SJOSTROM,Sarah,200,Butterfly,50,2:12.22
+SJOSTROM,Sarah,200,Butterfly,25,2:04.23
+SJOSTROM,Sarah,100,Medley,25,57.1
+SJOSTROM,Sarah,200,Medley,50,2:16.56
+SJOSTROM,Sarah,200,Medley,25,2:08.17
+SJOSTROM,Sarah,400,Medley,25,5:09.92
+SJOSTROM,Sarah,50,Freestyle,25,22.94
+SJOSTROM,Sarah,50,Freestyle,25,22.94
+SJOSTROM,Sarah,100,Freestyle,50,51.91
+SJOSTROM,Sarah,100,Freestyle,25,50.67
+SJOSTROM,Sarah,200,Freestyle,50,1:53.64
+SJOSTROM,Sarah,200,Freestyle,25,1:52.63
+SJOSTROM,Sarah,50,Butterfly,50,24.83
+SJOSTROM,Sarah,50,Butterfly,25,23.96
+SJOSTROM,Sarah,100,Butterfly,50,55.03
+SJOSTROM,Sarah,100,Butterfly,25,54.65
+SMITH,Regan E,50,Freestyle,50,26.11
+SMITH,Regan E,100,Freestyle,50,55.53
+SMITH,Regan E,100,Freestyle,25,54.83
+SMITH,Regan E,200,Freestyle,50,1:58.14
+SMITH,Regan E,200,Freestyle,25,1:57.79
+SMITH,Regan E,400,Freestyle,50,4:10.33
+SMITH,Regan E,50,Backstroke,50,27.1
+SMITH,Regan E,50,Backstroke,25,27.72
+SMITH,Regan E,100,Backstroke,50,57.57
+SMITH,Regan E,100,Backstroke,25,56.33
+SMITH,Regan E,200,Backstroke,50,2:03.35
+SMITH,Regan E,200,Backstroke,25,2:02.23
+SMITH,Regan E,50,Butterfly,50,27.19
+SMITH,Regan E,50,Butterfly,25,26.12
+SMITH,Regan E,100,Butterfly,50,56.6
+SMITH,Regan E,100,Butterfly,25,57.14
+SMITH,Regan E,200,Butterfly,50,2:05.30
+SMITH,Regan E,100,Medley,25,1:03.17
+SMITH,Regan E,200,Medley,50,2:10.40
+SMITH,Regan E,200,Freestyle,50,1:59.87
+TITMUS,Ariarne,50,Freestyle,50,26.13
+TITMUS,Ariarne,100,Freestyle,50,53.68
+TITMUS,Ariarne,100,Freestyle,25,53.32
+TITMUS,Ariarne,200,Freestyle,50,1:53.01
+TITMUS,Ariarne,200,Freestyle,25,1:51.38
+TITMUS,Ariarne,400,Freestyle,50,3:55.38
+TITMUS,Ariarne,400,Freestyle,25,3:53.92
+TITMUS,Ariarne,800,Freestyle,50,8:13.59
+TITMUS,Ariarne,800,Freestyle,50,8:13.59
+TITMUS,Ariarne,800,Freestyle,25,8:13.41
+TITMUS,Ariarne,1500,Freestyle,50,16:09.87
+TITMUS,Ariarne,200,Breaststroke,50,2:53.38
+TITMUS,Ariarne,100,Butterfly,50,1:06.58
+TITMUS,Ariarne,200,Butterfly,50,2:17.37
+TITMUS,Ariarne,200,Medley,50,2:33.03
+TITMUS,Ariarne,400,Medley,50,4:46.61
+TITMUS,Ariarne,50,Freestyle,50,27.19
+TITMUS,Ariarne,50,Freestyle,25,24.71
+TITMUS,Ariarne,100,Freestyle,50,53.96
+TITMUS,Ariarne,100,Freestyle,25,52.92
+TITMUS,Ariarne,200,Freestyle,50,1:52.41
+TITMUS,Ariarne,200,Freestyle,25,1:53.53
+TITMUS,Ariarne,50,Butterfly,50,30.49
+WELLBROCK,Sarah,50,Freestyle,50,27.22
+WELLBROCK,Sarah,50,Freestyle,25,26.33
+WELLBROCK,Sarah,100,Freestyle,50,57.07
+WELLBROCK,Sarah,100,Freestyle,25,55.42
+WELLBROCK,Sarah,200,Freestyle,50,1:58.56
+WELLBROCK,Sarah,200,Freestyle,25,1:56.01
+WELLBROCK,Sarah,400,Freestyle,50,4:03.96
+WELLBROCK,Sarah,400,Freestyle,25,3:59.12
+WELLBROCK,Sarah,800,Freestyle,50,8:16.43
+WELLBROCK,Sarah,800,Freestyle,25,8:08.02
+WELLBROCK,Sarah,1500,Freestyle,50,15:42.91
+WELLBROCK,Sarah,1500,Freestyle,25,15:18.01
+WELLBROCK,Sarah,5000,Freestyle,50,1:01:09.10
+WELLBROCK,Sarah,50,Backstroke,50,31.75
+WELLBROCK,Sarah,50,Backstroke,25,30.02
+WELLBROCK,Sarah,100,Backstroke,50,1:07.68
+WELLBROCK,Sarah,100,Backstroke,25,1:04.17
+WELLBROCK,Sarah,200,Backstroke,50,2:21.82
+WELLBROCK,Sarah,200,Backstroke,25,2:14.29
+WELLBROCK,Sarah,100,Breaststroke,50,1:29.16
+WELLBROCK,Sarah,100,Breaststroke,25,1:24.81
+WELLBROCK,Sarah,50,Butterfly,50,29.63
+WELLBROCK,Sarah,100,Butterfly,50,1:04.09
+WELLBROCK,Sarah,100,Butterfly,25,1:14.32
+WELLBROCK,Sarah,200,Butterfly,50,2:27.65
+WELLBROCK,Sarah,200,Butterfly,25,2:32.00
+WELLBROCK,Sarah,100,Medley,25,1:04.84
+WELLBROCK,Sarah,200,Medley,50,2:21.19
+WELLBROCK,Sarah,200,Medley,25,2:16.96
+WELLBROCK,Sarah,400,Medley,50,4:53.28
+WELLBROCK,Sarah,400,Medley,25,4:43.92
+WELLBROCK,Sarah,800,Medley,50,11:22.36
+WELLBROCK,Sarah,50,Freestyle,25,24.9
+WELLBROCK,Sarah,100,Freestyle,50,55.45
+WELLBROCK,Sarah,100,Freestyle,25,55.2
+WELLBROCK,Sarah,200,Freestyle,50,1:57.18
+WELLBROCK,Sarah,200,Freestyle,25,1:58.91
+WELLBROCK,Sarah,50,Butterfly,25,33.19
+WELLBROCK,Sarah,100,Butterfly,50,1:13.72
+ZHANG,Yufei,50,Freestyle,50,24.15
+ZHANG,Yufei,50,Freestyle,25,23.76
+ZHANG,Yufei,100,Freestyle,50,53.34
+ZHANG,Yufei,100,Freestyle,25,53.24
+ZHANG,Yufei,200,Freestyle,50,1:57.36
+ZHANG,Yufei,200,Freestyle,25,1:55.26
+ZHANG,Yufei,400,Freestyle,25,3:59.51
+ZHANG,Yufei,50,Butterfly,50,25.05
+ZHANG,Yufei,50,Butterfly,25,24.71
+ZHANG,Yufei,100,Butterfly,50,55.64
+ZHANG,Yufei,100,Butterfly,25,55.87
+ZHANG,Yufei,200,Butterfly,50,2:03.86
+ZHANG,Yufei,200,Butterfly,25,2:03.01
+ZHANG,Yufei,100,Medley,25,1:08.80
+ZHANG,Yufei,400,Medley,25,4:46.30
+ZHANG,Yufei,50,Freestyle,25,23.12
+ZHANG,Yufei,100,Freestyle,50,52.84
+ZHANG,Yufei,100,Freestyle,25,51.91
+ZHANG,Yufei,200,Freestyle,50,1:55.66
+ZHANG,Yufei,100,Butterfly,50,55.39
+ZHANG,Yufei,100,Butterfly,25,54.93
+ZHAO,Jing,50,Freestyle,50,25.9
+ZHAO,Jing,200,Freestyle,25,2:02.86
+ZHAO,Jing,50,Backstroke,50,27.06
+ZHAO,Jing,50,Backstroke,25,25.82
+ZHAO,Jing,100,Backstroke,50,58.98
+ZHAO,Jing,100,Backstroke,25,56.18
+ZHAO,Jing,200,Backstroke,50,2:07.87
+ZHAO,Jing,200,Backstroke,25,2:07.71
+ZHAO,Jing,100,Medley,25,58.4
+ZHAO,Jing,200,Medley,50,2:16.00
+ZHAO,Jing,200,Medley,25,2:17.82
+ZHAO,Jing,400,Medley,50,4:56.41
+ZHAO,Jing,100,Breaststroke,25,1:04.72

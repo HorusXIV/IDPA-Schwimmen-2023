@@ -1,0 +1,16 @@
+IDPA/
+
+*.pyc
+__pycache__/
+
+instance/
+
+cert/
+
+.pytest_cache/
+.coverage
+htmlcov/
+
+dist/
+build/
+*.egg-info/

@@ -1,13 +1,13 @@
 from flask import Flask, request, jsonify
+from scipy.optimize import curve_fit
 import pandas as pd
 import numpy as np
-from scipy.optimize import curve_fit
 
 # Create a Flask web application
-app = Flask(__name__)
+app = Flask(__name__, instance_relative_config=True)
 app.config.from_mapping(
-        SECRET_KEY='dev'
-    )
+    SECRET_KEY='dev'
+)
 
 # Function to parse time strings with variable formats
 def parse_custom_time(time_str):
@@ -21,7 +21,7 @@ def parse_custom_time(time_str):
         return pd.to_timedelta(time_str)
 
 # Read the CSV file into a DataFrame
-df = pd.read_csv('SwimDataTop50.csv')
+df = pd.read_csv('flaskr\SwimDataTop50.csv')
 
 # Convert 'time' column to timedelta 
 df['time'] = df['time'].apply(parse_custom_time)
@@ -33,28 +33,7 @@ grouped_data = df.groupby(['surname', 'firstname', 'track length', 'technique'])
 
 # Define a rational function for curve fitting
 def fit_rational_function(x, a, b, c):
-    return 1 / (a * x + b) + c
-
-# Define a function to plot the rational function fit
-def plot_rational_function(distance, speed, ax, title):
-    file=open('y_points.txt','w')
-    params, covariance = curve_fit(fit_rational_function, distance, speed, method="dogbox")
-
-    x_range = np.linspace(0, 2000, 200)
-    y_pred = fit_rational_function(x_range, *params)
-
-    for number in speed:
-        file.write(str(number)+",")
-
-    ax.scatter(distance, speed, color='blue', label='Data')
-    ax.plot(x_range, y_pred, color='red', label='Rational Function Fit')
-    ax.set_title(title)
-    ax.set_xlabel('Distance (m)')
-    ax.set_ylabel('Speed (m/s)')
-    ax.set_ylim(y_pred.min()-0.1, y_pred.max()+0.1)  # Set y-axis limits
-    ax.legend()
-    
-
+    return 1 / (a * x + b) + c  
 
 # Define a route for the web application
 @app.route('/requestData')
@@ -109,4 +88,5 @@ def plot_rational_function_for_swimmer():
 
 # Run the Flask application
 if __name__ == '__main__':
-   app.run(debug = True, port=9387, host='0.0.0.0', ssl_context=('adhoc'))
+   app.run(host='0.0.0.0', ssl_context=('flaskr\cert\selfcert.pem', 'flaskr\cert\selfkey.pem'))
+   

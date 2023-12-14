@@ -21,7 +21,7 @@ def parse_custom_time(time_str):
         return pd.to_timedelta(time_str)
 
 # Read the CSV file into a DataFrame
-df = pd.read_csv('flaskr\SwimDataTop50.csv')
+df = pd.read_csv('SwimDataTop50.csv')
 
 # Convert 'time' column to timedelta 
 df['time'] = df['time'].apply(parse_custom_time)
@@ -40,12 +40,21 @@ def fit_rational_function(x, a, b, c):
 def plot_rational_function_for_swimmer():
     # Get parameters from the request URL
     firstname = request.args.get('firstname', None)
-    lastname = request.args.get('lastname', None)
+    lastname = request.args.get('lastname', None).upper()
     track_length = request.args.get('track_length', None)
     technique = request.args.get('technique', None)
 
-    values = {}
-    returndict = {}
+    if not firstname or not lastname or not track_length or not technique:
+        return 'Invalid request. Please provide all parameters.', 400
+    elif not technique in ['F', 'R', 'B', 'S', 'L']:
+        return 'Invalid request. Technique must be one of F, R, B, S, L.', 400
+    elif not track_length in ["25", "50"]:
+        return 'Invalid request. Track length must be one of 25, 50.', 400
+    elif not firstname.isalpha() or not lastname.isalpha():
+        return 'Invalid request. Firstname and lastname must only contain letters.', 400
+    
+    mesList = []
+    predList = []
 
     # Mapping for swimming techniques
     map = {
@@ -64,29 +73,44 @@ def plot_rational_function_for_swimmer():
 
     # If no data found, return a message
     if filtered_df.empty:
-        return f'No data found for {firstname} {lastname}.'
+        return f'No data found for {firstname} {lastname}.', 400
+    elif len(filtered_df) < 3:
+        return f'Not enough data found for {firstname} {lastname}.', 400
     
     # Fit a rational function to the filtered data
-    params, covariance = curve_fit(fit_rational_function, filtered_df['distance'], filtered_df['speed'], method="dogbox")
+    params, covariance = curve_fit(fit_rational_function, filtered_df['distance'], filtered_df['speed'])
 
     x_range = np.linspace(0, 2000, 200)
     y_pred = fit_rational_function(x_range, *params)
 
     # Create dictionaries for predicted and measured values
     for X, Y in zip(x_range, y_pred):
-        returndict[X] = Y
+        predDict = {"x": X, "y": Y}
+        predList.append(predDict)
 
     for distance, speed in zip(filtered_df['distance'], filtered_df['speed']):
-        values[distance] = speed
+        mesDict = {"x": distance, "y": speed}
+        mesList.append(mesDict)
 
     # Create a JSON response containing predicted and measured values
     data = {
-        "pred_values": returndict,
-        "mes_values": values
+        "pred_values": predList,
+        "mes_values": mesList
     }
-    return jsonify(data)
+    return jsonify(data), 200
+
+
+@app.route('/swimmers')
+def getAllSwimmers():
+    swimmers = []
+    uniquedf = df[['firstname', 'surname']].drop_duplicates()
+    # Get all unique swimmers
+    for firstname, lastname in zip(uniquedf['firstname'], uniquedf['surname']):
+        swimmers.append(firstname + ' ' + lastname)
+
+    return jsonify(swimmers)
 
 # Run the Flask application
 if __name__ == '__main__':
-   app.run(host='0.0.0.0', ssl_context=('flaskr\cert\selfcert.pem', 'flaskr\cert\selfkey.pem'))
+   app.run(debug=True,host='0.0.0.0', ssl_context=('cert\selfcert.pem', 'cert\selfkey.pem'))
    

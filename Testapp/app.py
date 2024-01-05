@@ -50,8 +50,6 @@ def plot_rational_function_for_swimmer():
         return 'Invalid request. Technique must be one of F, R, B, S, L.', 400
     elif not track_length in ["25", "50"]:
         return 'Invalid request. Track length must be one of 25, 50.', 400
-    elif not firstname.isalpha() or not lastname.isalpha():
-        return 'Invalid request. Firstname and lastname must only contain letters.', 400
     
     mesList = []
     predList = []
@@ -67,7 +65,7 @@ def plot_rational_function_for_swimmer():
 
     # Map the technique
     technique = map[technique]
-
+ 
     # Filter the DataFrame based on the provided parameters
     filtered_df = df[(df['firstname'] == firstname) & (df['surname'] == lastname) & (df['track length'] == int(track_length)) & (df['technique'] == technique)]
 
@@ -112,5 +110,5 @@ def getAllSwimmers():
 
 # Run the Flask application
 if __name__ == '__main__':
-   app.run(debug=True,host='0.0.0.0', ssl_context=('cert\selfcert.pem', 'cert\selfkey.pem'))
+   app.run(debug=True, host='0.0.0.0', ssl_context=('cert\selfcert.pem', 'cert\selfkey.pem'))
    

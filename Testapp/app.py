@@ -50,6 +50,7 @@ df['time'] = df['time'].apply(parse_custom_time)
 df['time_seconds'] = df['time'].dt.total_seconds()
 df['speed'] = df['distance'] / df['time_seconds']
 
+#Drop duplicatet rows where 'surname', 'firstname', 'distance', 'technique', 'track length' are the same, keep the first row
 df = df.drop_duplicates(subset=['surname', 'firstname', 'distance', 'technique', 'track length'], keep='first')
 
 # Group the data by 'surname', 'firstname', 'track length', 'technique'

@@ -50,6 +50,8 @@ df['time'] = df['time'].apply(parse_custom_time)
 df['time_seconds'] = df['time'].dt.total_seconds()
 df['speed'] = df['distance'] / df['time_seconds']
 
+df = df.drop_duplicates(subset=['surname', 'firstname', 'distance', 'technique', 'track length'], keep='first')
+
 # Group the data by 'surname', 'firstname', 'track length', 'technique'
 grouped_data = df.groupby(['surname', 'firstname', 'track length', 'technique'])
 
@@ -88,6 +90,7 @@ def plot_rational_function_for_swimmer():
     lastname = request.args.get('lastname', None).upper()
     track_length = request.args.get('track_length', None)
     technique = request.args.get('technique', None)
+    isAbsolute = bool(request.args.get('absolute', False))
 
     # Validate parameters
     if not firstname or not lastname or not track_length or not technique:
@@ -121,9 +124,23 @@ def plot_rational_function_for_swimmer():
         return f'No data found for {firstname} {lastname}.', 400
     elif len(filtered_df) < 3:
         return f'Not enough data found for {firstname} {lastname}.', 400
+    
+    if not isAbsolute:
+        # Check if 200m distance is present in the filtered data
+        if 200 in filtered_df['distance'].unique():
+            # If 200m distance is present, use the speed value for division
+            divisor = filtered_df[filtered_df['distance'] == 200]['speed'].values[0]
+        else:
+            # If 200m distance is not present, find the closest distance and use its speed value for division
+            closest_distance_index = (filtered_df['distance'] - 200).abs().argsort()[:1]
+            divisor = filtered_df.iloc[closest_distance_index, 7].values[0]
+
+        # Calculation for relative speed to 200m
+        filtered_df['speed'] = filtered_df['speed'] / divisor
+
 
     # Fit a rational function to the filtered data
-    params, covariance = curve_fit(fit_rational_function, filtered_df['distance'], filtered_df['speed'])
+    params, covariance = curve_fit(fit_rational_function, filtered_df['distance'], filtered_df['speed'], method="dogbox",maxfev=50000)
 
     x_range = np.linspace(0, 2000, 200)
     y_pred = fit_rational_function(x_range, *params)

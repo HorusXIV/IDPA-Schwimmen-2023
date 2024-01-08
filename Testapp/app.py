@@ -231,4 +231,4 @@ def possibleOptions():
 
 # Run the Flask application
 if __name__ == '__main__':
-   app.run(debug=True, host='0.0.0.0', ssl_context=('cert\selfcert.pem', 'cert\selfkey.pem'))
+   app.run(debug=True, host='0.0.0.0', port=9387, ssl_context=('cert\selfcert.pem', 'cert\selfkey.pem'))

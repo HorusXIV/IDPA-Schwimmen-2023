@@ -178,37 +178,56 @@ def getAllSwimmers():
 
 
 def checker(toCheck, trackLength, technique):
+        """
+        Check if the given technique and track length are present in the DataFrame.
+
+        Parameters:
+        - toCheck (DataFrame): DataFrame to check for the presence of the technique and track length.
+        - trackLength (int): Track length to check.
+        - technique (str): Technique to check.
+
+        Returns:
+        - bool: True if the technique and track length are present, False otherwise.
+        """
         return technique in toCheck['technique'].values and trackLength in toCheck['track length'].values
 
 @app.route("/possibleOptions")
 def possibleOptions():
+    """
+    Endpoint to retrieve possible swimming options for a specific swimmer.
+
+    Returns:
+    - JSON: A JSON response indicating the availability of swimming options.
+    - HTTP Status Code 200: Successful response.
+    - HTTP Status Code 400: Invalid request.
+    """
     # Get parameters from the request URL
     firstname = request.args.get('firstname', None).lower()
     lastname = request.args.get('lastname', None).upper()
 
+    # Validate parameters
     if not firstname or not lastname:
         return 'Invalid request. Please provide all parameters.', 400
 
+    # Filter the DataFrame based on the provided parameters
     possibleOptions = df[(df['firstname'] == firstname) & (df['surname'] == lastname)]
     grouped_data = possibleOptions.groupby(['surname', 'firstname', 'track length', 'technique'])
     size = grouped_data.size()
     valid = size[size > 2]
     valid = valid.reset_index()
 
-    returnJason = {
-        "S-50": checker(valid, 50, 'Schmetterling'),
-        "R-50": checker(valid, 50, 'Rücken'),
-        "B-50": checker(valid, 50, 'Brust'),
-        "F-50": checker(valid, 50, 'Freistil'),
-        "L-50": checker(valid, 50, 'Lagen'),
-        "S-25": checker(valid, 25, 'Schmetterling'),
-        "R-25": checker(valid, 25, 'Rücken'),
-        "B-25": checker(valid, 25, 'Brust'),
-        "F-25": checker(valid, 25, 'Freistil'),
-        "L-25": checker(valid, 25, 'Lagen')
-        }
-    
-    return jsonify(returnJason), 200
+ # Create a dictionary indicating the availability of swimming options
+    swimming_options = {}
+    techniques = ['Schmetterling', 'Rücken', 'Brust', 'Freistil', 'Lagen']
+    track_lengths = [50, 25]
+
+    for technique in techniques:
+        for track_length in track_lengths:
+            key = f"{technique[0]}-{track_length}"
+            swimming_options[key] = checker(valid, track_length, technique)
+
+    # Return the dictionary as JSON
+    return jsonify(swimming_options), 200
 
 # Run the Flask application
 if __name__ == '__main__':

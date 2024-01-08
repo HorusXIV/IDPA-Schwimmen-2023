@@ -40,12 +40,10 @@ df = pd.read_csv('SwimDataTop50.csv')
 df['time'] = df['time'].apply(parse_custom_time)
 df['time_seconds'] = df['time'].dt.total_seconds()
 df['speed'] = df['distance'] / df['time_seconds']
+df["firstname"] = df['firstname'].str.lower()
 
 #Drop duplicatet rows where 'surname', 'firstname', 'distance', 'technique', 'track length' are the same, keep the first row
 df = df.drop_duplicates(subset=['surname', 'firstname', 'distance', 'technique', 'track length'], keep='first')
-
-# Group the data by 'surname', 'firstname', 'track length', 'technique'
-grouped_data = df.groupby(['surname', 'firstname', 'track length', 'technique'])
 
 def fit_rational_function(x, a, b, c):
     """
@@ -90,7 +88,7 @@ def plot_rational_function_for_swimmer():
     - HTTP Status Code 400: Invalid request or insufficient data found.
     """
     # Get parameters from the request URL
-    firstname = request.args.get('firstname', None)
+    firstname = request.args.get('firstname', None).lower()
     lastname = request.args.get('lastname', None).upper()
     track_length = request.args.get('track_length', None)
     technique = request.args.get('technique', None)
@@ -177,6 +175,40 @@ def getAllSwimmers():
 
     # Return the list of unique swimmers as JSON
     return jsonify(swimmers)
+
+
+def checker(toCheck, trackLength, technique):
+        return technique in toCheck['technique'].values and trackLength in toCheck['track length'].values
+
+@app.route("/possibleOptions")
+def possibleOptions():
+    # Get parameters from the request URL
+    firstname = request.args.get('firstname', None).lower()
+    lastname = request.args.get('lastname', None).upper()
+
+    if not firstname or not lastname:
+        return 'Invalid request. Please provide all parameters.', 400
+
+    possibleOptions = df[(df['firstname'] == firstname) & (df['surname'] == lastname)]
+    grouped_data = possibleOptions.groupby(['surname', 'firstname', 'track length', 'technique'])
+    size = grouped_data.size()
+    valid = size[size > 2]
+    valid = valid.reset_index()
+
+    returnJason = {
+        "S-50": checker(valid, 50, 'Schmetterling'),
+        "R-50": checker(valid, 50, 'Rücken'),
+        "B-50": checker(valid, 50, 'Brust'),
+        "F-50": checker(valid, 50, 'Freistil'),
+        "L-50": checker(valid, 50, 'Lagen'),
+        "S-25": checker(valid, 25, 'Schmetterling'),
+        "R-25": checker(valid, 25, 'Rücken'),
+        "B-25": checker(valid, 25, 'Brust'),
+        "F-25": checker(valid, 25, 'Freistil'),
+        "L-25": checker(valid, 25, 'Lagen')
+        }
+    
+    return jsonify(returnJason), 200
 
 # Run the Flask application
 if __name__ == '__main__':
